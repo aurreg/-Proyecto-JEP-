@@ -18,3 +18,6 @@ Las carpetas de este repositorio de git estan organizadas de la siguiente manera
 - [SCRIPTS](https://github.com/aurreg/-Proyecto-JEP-/tree/main/Scripts): Esta carpeta contiene los scripts necesarios, tanto en R como en python para la replicacion de los resultados obtenidos en el proyecto.
 - [OUTPUTS](): Aparecera en el repo cuando hayan archivos que mostrar.
 
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).

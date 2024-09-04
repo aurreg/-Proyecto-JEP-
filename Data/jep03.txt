@@ -1,0 +1,339 @@
+Caso 03 | Leandro Eliécer Moná Cano | Subcaso Casanare | 20210218
+Caso 03 | Guillermo Quiñónez | Subcaso Casanare | 20210212
+Caso 03 | Henry William Torres | Subcaso Casanare | 20191211
+Caso 03 | Gustavo Enrique Soto Bracamonte | Subcaso Casanare | 20200625
+Caso 03 | Henry Torres Escalante | Subcaso Casanare | 20200206
+Caso 03 | Jorge Arturo Romero Romero | Subcaso Casanare | 20201126
+Caso 03 | Henry Hernán Acosta | Subcaso Casanare | 20201123
+Caso 03 | Juan Pablo Bravo | Subcaso Casanare | 20210415
+Caso 03 | Orlando Rivas Tovar | Subcaso Casanare | 20191128
+Caso 03 | Wilson Rodríguez Mimisica | Subcaso Casanare | 20191202
+Caso 03 | Marco Fabián García Céspedes | Subcaso Casanare | 20190705
+Caso 03 | Edwin Leonardo Toro | Subcaso Casanare | 20190220
+Caso 03 | Subcaso Huila | Carlos Yair Salamanca Robles | 20211220
+Caso 03 | Subcaso Huila | Desaix Jesús Palomino Mejía | 20221028
+Caso 03 | Subcaso Huila | José David Restrepo Solarte | 20230123
+Caso 03 | Subcaso Huila | Hugo Alexánder Flor León | 20191210
+Caso 03 | Subcaso Huila | Faiver Hernán Buesaquillo | 20191211
+Caso 03 | Subcaso Huila | David Rodríguez Triviño | 20200630
+Caso 03 | Subcaso Huila | Felipe Andrés Ramírez Gómez | 20220915
+Caso 03 | Subcaso Huila | Francisco Javier Castañeda Alfaro | 20191126
+Caso 03 | Subcaso Huila | Carlos Hernán Rodríguez Vera | 20190529
+Caso 03 | Subcaso Huila | José David Restrepo Solarte | 20230124
+Caso 03 | Subcaso Huila | Henry Lozano | 20190531
+Caso 03 | Subcaso Huila | José Yati Anacona Bueno | 20191114
+Caso 03 | Subcaso Huila | Juan José González | 20191127
+Caso 03 | Subcaso Huila | Francisco Javier Castañeda Alfaro | 20191127
+Caso 03 | Subcaso Huila | Alejandro Aguilar Cárdenas | 20191106
+Caso 03 | Subcaso Huila | José Roldán López Cerón | 20190530
+Caso 03 | Subcaso Huila | Eduardo Palencia Bermeo | 20200624
+Caso 03 | Subcaso Huila | Sergio Franco Osorio | 20190909
+Caso 03 | Subcaso Huila | Albeiro Rojas Bocanegra | 20190527
+Caso 03 | Subcaso Huila | José Fidel Orjuela | 20190528
+Caso 03 | Subcaso Huila | Julio César Ramos Zapata | 20190529
+Caso 03 | Subcaso Huila | Felipe Andrés Calderón | 20190528
+Caso 03 | Subcaso Huila | Luis Carlos Oyola Tapias | 20190530
+Caso 03 | Subcaso Huila | Orlando Pico Rivera | 20210504
+Caso 03 | Subcaso Huila | Domingo Peña | 20210430 Domingo Peña
+Caso 03 | Subcaso Huila | Yilfredy Ortega Pepicano | 20200903
+Caso 03 | Subcaso Huila | Jorge Arley Silva Reyes | 20200626
+Caso 03 | Subcaso Huila | Jhon Esteban Urueta Ballesteros | 20230809
+Caso 03 | Subcaso Huila | Mauricio Ortiz González | 20230713
+Caso 03 | Subcaso Huila | José Alfredo Valderrama Calderón | 20230705
+Caso 03 | Subcaso Huila | Robert Yesid Quintero Quintero | 20230710
+Caso 03 | Subcaso Huila | Roberto Yesid Quintero Quintero | 20230704
+Caso 03 | Subcaso Huila | Carlos Hernán Rodríguez Vera | 20230323
+Caso 03 | Subcaso Huila | Jaime Bustos Cicery | 20230322
+Caso 03 | Subcaso Huila | Juan Carlos Cervera| 20230321
+Caso 03 | Subcaso Huila | Desaix Palomino | 20221121
+Caso 03 | Subcaso Huila | Desaix Palomino | 20221122
+Caso 03 | Subcaso Huila | Felipe Ramírez Gómez | 20220912
+Caso 03 | Subcaso Huila | Leonardo Ayala Remolina | 20221027
+Caso 03 | Subcaso Huila | César Julio Remolina Lizarazo | 20220914
+Caso 03 | Subcaso Huila | Wilfredo Villamizar Bautista  | 20220907
+Caso 03 | Subcaso Huila | Arley Suárez | 20220802
+Caso 03 | Subcaso Huila | William Alfredo González | 20220805
+Caso 03 | Subcaso Huila | William Alfredo González | 20220722
+Caso 03 | Subcaso Huila | José David Restrepo | 20220725
+Caso 03 | Subcaso Huila | César Guauta | 20220811
+Caso 03 | Subcaso Huila | Juan Miguel Flórez Buendía | 20220712
+Caso 03 | Subcaso Huila | Ricardo Marín | 20220808
+Caso 03 | Subcaso Huila | Jorge Enrique Culmán | 20220801
+Caso 03 | Subcaso Huila | Arley Suárez Cerquera | 20220823
+Caso 03 | Subcaso Huila | James Horacio Garnica | 20220905
+Caso 03 | Subcaso Huila | Ferney Triana Lozano | 20220711
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20220308
+Caso 03 | Subcaso Huila | Arley Suárez Cerquera | 20220812
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20220309
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20220322
+Caso 03 | Subcaso Huila | Jaime Jacobo Gutiérrez Salen | 20220218
+Caso 03 | Subcaso Huila | Héctor Alexánder Juzga León | 20220223
+Caso 03 | Subcaso Huila | Henry Ballesteros Plata | 20220217
+Caso 03 | Subcaso Huila | Jaime Alfonso Lasprilla | 20220201
+Caso 03 | Subcaso Huila | Jaime Alfonso Lasprilla | 20220131
+Caso 03 | Subcaso Huila | Miguel Pérez Guarnizo | 20220124
+Caso 03 | Subcaso Huila | William Pérez Laiseca | 20220121
+Caso 03 | Subcaso Huila | William Pérez Laiseca | 20220120
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20220113
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20211228
+Caso 03 | Subcaso Huila | Francisco Adrián Álvarez Calderón | 20211227
+Caso 03 | Subcaso Huila | Ariel Gustavo Vargas | 20211223
+Caso 03 | Subcaso Huila | Pedro Iván Molina | 20211222
+Caso 03 | Subcaso Huila | Miguel Pérez Guarnizo | 20211215
+Caso 03 | Subcaso Huila | Miguel Pérez Guarnizo | 20211214
+Caso 03 | Subcaso Huila | Alexánder Céspedes | 20211221
+Caso 03 | Subcaso Huila | William Pérez Laiseca | 20211209
+Caso 03 | Subcaso Huila | Luis Armando Gómez Ruge | 20211206
+Caso 03 | Subcaso Huila | Alexánder Céspedes Ortiz | 20211108
+Caso 03 | Subcaso Huila | Jaime Alfonso Lasprilla | 20211103
+Caso 03 | Subcaso Huila | Jaime Alfonso Lasprilla | 20211102
+Caso 03 | Subcaso Huila | Ángel Carvajal Rojas | 20211029
+Caso 03 | Subcaso Huila | Oswaldo Peña Bermeo | 20211026
+Caso 03 | Subcaso Huila | Rubiel Enrique Pérez Rodríguez | 20211025
+Caso 03 | Subcaso Huila | Hernando Chávez | 20211013
+Caso 03 | Subcaso Huila | Hernando Chávez | 20211012
+Caso 03 | Subcaso Huila | Édgar Alberto Rodríguez Sánchez | 20210921
+Caso 03 | Subcaso Huila | Ángel Carvajal Rojas | 20210914
+Caso 03 | Subcaso Huila | Ángel Carvajal Rojas | 20210913
+Caso 03 | Subcaso Huila | Martín Eduardo Galindo Páez | 20210802
+Caso 03 | Subcaso Huila | Édgar Alberto Rodríguez Sánchez | 20210728
+Caso 03 | Subcaso Huila | Édgar Alberto Rodríguez Sánchez | 20210727
+Caso 03 | Subcaso Huila | Édgar Alberto Rodríguez Sánchez | 20210518
+Caso 03 | Subcaso Huila | Martín Eduardo Galindo Páez | 20210630
+Caso 03 | Subcaso Huila | Jair Arias Sánchez | 20210715
+Caso 03 | Subcaso Huila | Domingo Peña | 20210429
+Caso 03 | Subcaso Huila | Marcos Evangelista Pinto Lizarazo | 20210525
+Caso 03 | Subcaso Huila | Marcos Evangelista Pinto Lizarazo | 20210712
+Caso 03 | Subcaso Huila | Marcos Evangelista Pinto Lizarazo | 20210526
+Caso 03 | Subcaso Huila | Marcos Evangelista Pinto Lizarazo | 20210713
+Caso 03 | Subcaso Huila | Édgar Alberto Rodríguez Sánchez | 20210519
+Caso 03 | Subcaso Huila | Jair Arias Sánchez | 20210719
+Caso 03 | Subcaso Huila | Orlando Pico Rivera | 20210505
+Caso 03 | Subcaso Huila | Mario Hernán Duarte Méndez | 20210427
+Caso 03 | Subcaso Huila | Mario Hernán Duarte Méndez | 20210625
+Caso 03 | Subcaso Huila | Mario Hernán Duarte Méndez | 20210428
+Caso 03 | Subcaso Huila | Jesús Alexánder Cabanillas Salinas | 20210416
+Caso 03 | Subcaso Huila | Ómar Oswaldo Ojeda | 20210325
+Caso 03 | Subcaso Huila | Ricardo Andrés López | 20210324
+Caso 03 | Subcaso Huila | Ricardo Andrés López | 20210323
+Caso 03 | Subcaso Huila | Carlos Yair Salamanca | 20210318
+Caso 03 | Subcaso Huila | Carlos Yair Salamanca | 20210317
+Caso 03 | Subcaso Huila | Félix Juan Carlos Araque Leal | 20210310
+Caso 03 | Subcaso Huila | Félix Juan Carlos Araque Leal | 20210308
+Caso 03 | Subcaso Huila | Luis Carlos Aguilera | 20210302
+Caso 03 | Subcaso Huila | Luis Carlos Aguilera | 20210301
+Caso 03 | Subcaso Huila | Luis Carlos Lombana Solarte | 20210224
+Caso 03 | Subcaso Huila | Ricardo Iván Tibaduiza Díaz | 20210223
+Caso 03 | Subcaso Huila | Ricardo Iván Tibaduiza Díaz | 20210222
+Caso 03 | Subcaso Huila | José Alirio Triana | 20210218
+Caso 03 | Subcaso Huila | Ómar Oswaldo Ojeda Oliva | 20210215
+Caso 03 | Subcaso Huila | Sandro Alexánder Trujillo | 20210203
+Caso 03 | Subcaso Huila | Ómar Oswaldo Ojeda Oliva | 20210216
+Caso 03 | Subcaso Huila | Jesús Alexander Cabanillas Salinas | 20201228
+Caso 03 | Subcaso Huila | Aris Ramírez Campos | 20210114
+Caso 03 | Subcaso Huila | Jhon Alexánder Cárdenas | 20210202
+Caso 03 | Subcaso Huila | Jair Fernández | 20210119
+Caso 03 | Subcaso Huila | Franklin Rueda Betancourt | 20201221
+Caso 03 | Subcaso Huila | Julián Andrés Calderón Motta | 20201229
+Caso 03 | Subcaso Huila | José Fabio Guzmán Muñoz | 20201222
+Caso 03 | Subcaso Huila | Faiver Coronado Camero | 20201203
+Caso 03 | Subcaso Huila | Anuar Herrera | 20201014
+Caso 03 | Subcaso Huila | Jesús Mauricio Jiménez Botina | 20201123
+Caso 03 | Subcaso Huila | Faiver Coronado Camero | 20201214
+Caso 03 | Subcaso Huila | Fabio Alejandro Buitrago Sánchez | 20200930
+Caso 03 | Subcaso Huila | Orsain Iles Astudillo | 20201218
+Caso 03 | Subcaso Huila | Alejandro León Campos | 20201013
+Caso 03 | Subcaso Huila | Nelson Mora Fulano | 20201111
+Caso 03 | Subcaso Huila | Jairo Alberto Rico Silva | 20201215
+Caso 03 | Subcaso Huila | Élmer Moreno | 20201216
+Caso 03 | Subcaso Huila | Willinton Espinosa | 20201028
+Caso 03 | Subcaso Huila | José Aníbal Trujillo | 20200915
+Caso 03 | Subcaso Huila | Nelson Mora Fulano | 20201015
+Caso 03 | Subcaso Huila | Luis Herney Ramírez | 20200928
+Caso 03 | Subcaso Huila | Newer Penna | 20200811
+Caso 03 | Subcaso Huila | Willinton Espinosa Baquero | 20200910
+Caso 03 | Subcaso Huila | Nelson Mora Fulano | 20200911
+Caso 03 | Subcaso Huila | Diego Fernando Bravo | 20200825
+Caso 03 | Subcaso Huila | Carlos Ariel Morales | 20200909
+Caso 03 | Subcaso Huila | Libardo Guevara Ramos | 20200831
+Caso 03 | Subcaso Huila | Miller Damián Forero | 20200707
+Caso 03 | Subcaso Huila | Javier Fajardo Rincón | 20200805
+Caso 03 | Subcaso Huila | Florentino Tovar Gómez | 20200706
+Caso 03 | Subcaso Huila | Luis Rodolfo Mulcué Sanza | 20200729
+Caso 03 | Subcaso Huila | Yeison Lozano Cerquera | 20200616
+Caso 03 | Subcaso Huila | Jhon Carlos Guzmán Acevedo | 20191029
+Caso 03 | Subcaso Huila | Javier Pedraza | 20200723
+Caso 03 | Subcaso Huila | Luis Rodolfo Mulcué Sanza | 20200810
+Caso 03 | Subcaso Huila | Florentino Tovar Gómez | 20200708
+Caso 03 | Subcaso Huila | Eduaime Gaitán Patiño | 20200708
+Caso 03 | Subcaso Huila | Miller Damián Forero | 20200723
+Caso 03 | Subcaso Huila | Luis Herney Marín Brochero | 20200703
+Caso 03 | Subcaso Huila | Andrés Albeimar Rivera Sánchez | 20200702
+Caso 03 | Subcaso Huila | Vieney Gaviria Zemanate | 20200619
+Caso 03 | Subcaso Huila | Juan Camilo Torres Niño | 20200623
+Caso 03 | Subcaso Huila | Edwin Miguel Pérez Pantoja | 20200701
+Caso 03 | Subcaso Huila | Carlos Hernán Rodríguez Vera | 20230323
+Caso 03 | Subcaso Huila | Carlos Andrés Mahecha Bernal | 20190702
+Caso 03 | Subcaso Huila | José Wilson Orrego Noreña | 20190402
+Caso 03 | Subcaso Huila | William Andrés Capera Vargas | 20190806
+Caso 03 | Subcaso Huila | William Andrés Capera Vargas | 20190703
+Caso 03 | Subcaso Huila | José Edilberto Vera Vera | 20200316
+Caso 03 | Subcaso Huila | Fernando Riveros Sarmiento | 20190715
+Caso 03 | Subcaso Huila | Jaiber Méndez | 20190625
+Caso 03 | Subcaso Huila | José Alfredo Córdoba Vargas | 20190523
+Caso 03 | Subcaso Huila |  Fernando Riveros Sarmiento | 20190522
+Caso 03 | Subcaso Huila | Jimmy Giraldo Marín | 20191122
+Caso 03 | Subcaso Huila | Óscar Cárdenas Sánchez | 20190704
+Caso 03 | Subcaso Huila | José Alfredo Córdoba Vargas | 20190425
+Caso 03 | Subcaso Huila | César Augusto Vásquez Ordóñez | 20190403
+Caso 03 | Jaime Alberto Rivera Mahecha | Subcaso Casanare | 20190225
+Caso 03 | Jholman Farley Cuevas Arenas | Subcaso Casanare | 20190916
+Caso 03 | Jhon Alexánder Castellanos | Subcaso Casanare | 20190916
+Caso 03 | Darío Sigua Leal | Subcaso Casanare | 20190917
+Caso 03 | José Nicolás Siabato | Subcaso Casanare | 20190918
+Caso 03 | Rafael Alejandro Núñez | Subcaso Casanare | 20191017
+Caso 03 | Giovanni Alberto Montaño Arboleda | Subcaso Casanare | 20191021
+Caso 03 | Gustavo Enrique Soto | Subcaso Casanare | 20200731
+Caso 03 | Gustavo Alberto Parada Cuellar | Subcaso Casanare | 20220525
+Caso 03 |  Wilfrido Domínguez | Subcaso Casanare | 20220407
+Caso 03 | Miguel Andrés Sierra García | Subcaso Casanare | 20210309
+Caso 03 | Wilfrido Domínguez Márquez | Subcaso Casanare | 20210216
+Caso 03 | Wilson Rodríguez | Subcaso Casanare | 20200203
+Caso 03 | Jorge Edwin Gordillo Benítez | Subcaso Casanare | 20201124
+Caso 03 | Gélver Pérez García | Subcaso Casanare | 20191206
+Caso 03 | Gustavo Montaña Montaña | Subcaso Casanare | 20181203
+Caso 03 | Jaime Alberto Rivera Mahecha | Subcaso Casanare | 20181206
+Caso 03 | Gélver Pérez García | Subcaso Casanare | 20190326
+Caso 03 | Subcaso Casanare | 2019.07.13 | Miguel Fernando Ramírez
+Caso 03 | Subcaso Casanare | 2021.01.21 | Wilson Camargo Tamayo
+Caso 03 | Subcaso Casanare | 2020.09.29 | Erwin Eduardo Duarte Rojas
+Caso 03 | Javier Mauricio Peña Forero | Subcaso Casanare | 20210318
+Caso 03 | Alfredo Espitia Villa | Subcaso Casanare | 20210202
+Caso 03 | José Ovidio Díaz Vaquero | Subcaso Casanare | 20200915
+Caso 03 | Jorge Edwin Gordillo Benítez | Subcaso Casanare | 20201016
+Caso 03 | Jesús Eduardo Corzo Pita | Subcaso Casanare | 20201006
+Caso 03 | César Augusto Cómbita | Subcaso Casanare | 20191008
+Caso 03 | Zamir Humberto Casallas Valderrama | Subcaso Casanare | 20100911
+Caso 03 | Cipriano Peña Chivatá | Subcaso Casanare | 20210503
+Caso 03 | Pedro José Roa | Subcaso Casanare | 20200821
+Caso 03 | Jhon Alexánder Suancha Florián | Subcaso Casanare | 20200803
+Caso 03 | Jorge Antonio Solano Galvis | Subcaso Casanare | 20200727
+Caso 03 | Gustavo Parada Cuellar | Subcaso Casanare | 20220519
+Caso 03 | Germán Gutiérrez Mariño | Subcaso Casanare | 20190725
+Caso 03 | César Augusto Cómbita | Subcaso Casanare | 20210608
+Caso 03 | Cipriano Peña Chivatá | Subcaso Casanare | 20210219
+Caso 03 | Gustavo Vargas Varga | Subcaso Casanare | 20200923
+Caso 03 | Marcolino Puerto | Subcaso Casanare | 20201022
+Caso 03 | Henry Hernán Acosta Pardo | Subcaso Casanare | 20201009
+Caso 03 | Manuel Guillermo Torres | Subcaso Casanare | 20191025
+Caso 03 | César Augusto Cómbita | Subcaso Casanare | 20191018
+Caso 03 | Faiber Amaya Ruíz | Subcaso Casanare | 20200828
+Caso 03 | Marco Fabián García Céspedes | Subcaso Casanare | 20190726
+Caso 03 | Jairo Alonso Perdomo Rincón | Subcaso Casanare | 20191022
+Caso 03 | Jorge Alexánder Gómez Bernal | Subcaso Casanare | 20200916
+Caso 03 | Hiznardo Alberto Bravo Zambrano | Subcaso Casanare | 20210419
+Caso 03 | Marcolino Puerto | Subcaso Casanare | 20201110
+Caso 03 | Emilio Enrique Torres Ariza | Subcaso Casanare | 20201106
+Caso 03 | Edwin Leonardo Toro Ramírez | Subcaso Casanare | 20191021
+Caso 03 | Leonardo Alfonso Barrero Gordillo | Subcaso Casanare | 20210430
+Caso 03 | Yuber Armando Aranguren Rodríguez | Subcaso Casanare | 20210319
+Caso 03 | Frances Orlando Reyes Rodríguez | Subcaso Casanare | 20201119
+Caso 03 | Jorge Antonio Solano Galvis | Subcaso Casanare | 20191015
+Caso 03 | Jhony Higuera Moreno | Subcaso Casanare | 20191015
+Caso 03 | Jairo Sánchez Ospina | Subcaso Casanare | 20191015
+Caso 03 | Iván Ramírez Vera | Subcaso Casanare | 20191015
+Caso 03 | César Augusto Cómbita | Subcaso Casanare | 20191015
+Caso 03 | Alexánder Amaya Rincón | Subcaso Casanare | 20191007
+Caso 03 | Óscar Blanco Avellaneda | Subcaso Casanare | 20191002
+Caso 03 | José Rubén Mendivelso Rabelo | Subcaso Casanare | 20190925
+Caso 03 | Gilberto Blanco Aguilar | Subcaso Casanare | 20190925
+Caso 03 | Marco Fabián García Céspedes | Subcaso Casanare | 20190920
+Caso 03 | Julio César Tegue Medina | Subcaso Casanare | 20190916
+Caso 03 | Zamir Humberto Casallas Valderrama | Subcaso Casanare | 20100912
+Caso 03 | Jaime Jesús Olivera Arrieta | Subcaso Casanare | 20200922
+Caso 03 | Carlos Alirio Buitrago Bedoya | Subcaso Casanare | 20210226
+Caso 03 | Jairo Gabriel Paguay Escobar | Subcaso Casanare | 20210122
+Caso 03 | Juan Carlos de la Hoz | Subcaso Casanare | 20210225
+Caso 03 | Leandro Eliécer Moná Cano | Subcaso Casanare | 20210223
+Caso 03 | Wilson Salvador Burgos Jiménez | Subcaso Casanare | 20210211
+Caso 03 | Diego Yelim Cerón Jiménez | Subcaso Casanare | 20201222
+Caso 03 | Fabián Eduardo Sarmiento Valbuena | Subcaso Casanare | 20201127
+Caso 03 | Carlos Manuel Angarita Reyes | Subcaso Casanare | 20200930
+Caso 03 | Edwin Leonardo Toro Ramírez | Subcaso Casanare | Versión II | 20190627
+Caso 03 - Subcaso Costa Caribe| Testimonio de Marquiz Oñate
+Caso 03 - Subcaso Costa Caribe| Testimonio de Norgelis Martínez
+Caso 03 - Subcaso Costa Caribe| Testimonio de Yesenia Flórez
+Caso 03 - Subcaso Costa Caribe| Testimonio de Selmi Delfina Bolaños
+C 03 - 04 | Sargento Primero (r) Jaime Coral y Sargento Segundo (r) William Capera BCG79 | 20210923
+Casos 03 - 04 | Soldado Profesional (r) Gabriel Jaime Gómez Arenas BCG26 Arhuacos | 20210810
+Casos 03 - 04 | Segundo Sargento (r) Armando Fonseca Bernal BCG26 Arhuacos | 20210802
+Casos 03 - 04 | Soldado Profesional (r) Manuel Esteban Echavarría Julio BCG26 Arhuacos | 20210730
+Casos 03 - 04 | Mayor (r) Efraín Enrique Prada Correa Comandante BCG79 | 20210415
+Casos 03 - 04 | Soldado Profesional (r) Ómar Orlando Buesaquillo Ruíz BCG79 | 20210813
+Casos 03 - 04 | Soldado Profesional (r) Ómar Orlando Buesaquillo Ruíz BCG79 | 20210830
+Casos 03 - 04 | Teniente Coronel (a) Edinxon Barrientos BCG26 Arhuacos | 20210809
+Casos 03 - 04 | Mayor Coronel (r) Edie Pinzón Turcios Comandante BCG26 Arhuacos | 20210804
+Casos 03 - 04 | Mayor Coronel (r) Edie Pinzón Turcios Comandante BCG26 Arhuacos | 20210928
+Casos 03 - 04 | Teniente Coronel (a) Edinxon Barrientos BCG26 Arhuacos | 20210803
+Casos 03 - 04 | Teniente Coronel (a) Edinxon Barrientos BCG26 Arhuacos | 20210902
+Casos 03 - 04 | Teniente Coronel (a) Edinxon Barrientos BCG26 Arhuacos | 20211004
+Casos 03 - 04 | Teniente Coronel (a) Edinxon Barrientos BCG26 Arhuacos | 20211005
+Casos 03 - 04 | Soldado Profesional (r) Johan Edgardo Cano Ariza BCG79 | 20210812
+Casos 03 - 04 | Soldado Profesional (r) Johan Edgardo Cano Ariza BCG79 | 20210906
+Casos 03 - 04 | Soldado Profesional (r) Johan Edgardo Cano Ariza BCG79 | 20210825
+Casos 03 - 04 | Soldado Profesional (r) Johan Edgardo Cano Ariza BCG79 | 20211014
+Caso 03 - 04 | Subintendente jefe (r) Guillermo Chávez Lara Policía Nacional | 20220302
+Caso 03 - 04 | Subintendente jefe (r) Guillermo Chávez Lara Policía Nacional | 20220307
+Casos 03 - 04 | Mayor (r) Hermes Mauricio Alvarado Sáchica BCG26 Arhuacos | 20210901
+Casos 03 - 04 | Mayor (r) Hermes Mauricio Alvarado Sáchica BCG26 Arhuacos | 20210512
+Casos 03 - 04 | Mayor (r) Hermes Mauricio Alvarado Sáchica BCG26 Arhuacos | 20210511
+Casos 03 - 04 | Mayor (r) Hermes Mauricio Alvarado Sáchica BCG26 Arhuacos | 20210406
+Casos 03 - 04 | Mayor (r) Hermes Mauricio Alvarado Sáchica BCG26 Arhuacos | 20210304
+Casos 03 - 04 | Mayor (r) Efraín Enrique Prada Correa Comandante BCG79 | 20210204
+Casos 03 - 04 | Coronel (r) Jorge Alberto Amor Páez Comandante BRIM11 | 20210129
+Casos 03 - 04 | Coronel (r) Jorge Alberto Amor Páez Comandante BRIM11 | 20201105
+Casos 03- 04 | Capitán (r) Alfonso Romero Buitrago BCG79 | 20201123
+Casos 03- 04 | Capitán (r) Alfonso Romero Buitrago BCG79 | 20200211
+Casos 03 - 04 | Sargento Primero (r) Jaime Coral Trujillo BCG79 | 20200128
+Casos 03 - 04 | Sargento Segundo (r) William Andrés Capera Vargas BCG79 | 20191113
+Casos 03 - 04 | Sargento Segundo (r) William Andrés Capera Vargas BCG79 | 20190806
+Casos 03 - 04 | Sargento Segundo (r) William Andrés Capera Vargas BCG79 | 20190703
+Casos 03 - 04 | Sargento Segundo (r) Ferney Triana Lozano BCG79 | 20220711
+C 03 - 04 | Sargento Primero (r) Jaime Coral y Sargento Segundo (r) William Capera BCG79 | 20210924
+Casos 03 - 04 | Mayor (r) Yair Leandro Rodríguez Giraldo BCG26 Arhuacos | 20210831
+Mayor (r) Yair Rodríguez,  Soldados Profesionales (r) Richard Barroso y Manuel Echavarría | 20210827
+Casos 03 - 04 | Soldados Profesionales (r) Manuel Mejía y Gabriel Gómez BCG26 Arhuacos | 20210824
+Casos 03 - 04 | Soldado Profesional (r) Gabriel Jaime Gómez Arenas BCG26 Arhuacos | 20210729
+Casos 03 - 04 | Soldado Profesional (r) Richard de Jesús Barroso Torres BCG26 Arhuacos | 20210714
+Casos 03 - 04 | Mayor (r) Yair Leandro Rodríguez Giraldo BCG26 Arhuacos | 20210621
+Casos 03 - 04 | Soldado Profesional (r) Manuel Darío Mejía Sánchez BCG26 Arhuacos | 20210616
+Casos 03 - 04 | Coronel (r) David Herley Guzmán Ramírez Comandante BCG79 | 20210218
+Casos 03 - 04 | Sargento Viceprimero (r) Fidel Ochoa BCG79 | 20210315
+Casos 03 - 04 | Capitán (r) Alfonso Romero Buitrago BCG79 | 20210311
+Casos 03 - 04 | Sargento Segundo (r) Ferney Triana Lozano BCG 79 | 20210216
+Casos 03 - 04 | Sargento Viceprimero (r) Fidel Ochoa BCG79 | 20210211
+Casos 03 - 04 | Sargento Viceprimero (r) Fidel Ochoa BCG79 | 20210405
+Casos 03 - 04 | Soldado Profesional (r) Luis Fidel Arenas Rodríguez BCG 79 | 20210128
+Casos 03 - 04 | Coronel (r) David Herley Guzmán Ramírez Comandante BCG79 | 20210122
+Casos 03 - 04 | Sargento Segundo (r) Ferney Triana Lozano BCG 79 | 20210115
+Casos 03 - 04 | Sargento Viceprimero (r) Fidel Ochoa BCG79 | 20201120
+Casos 03 - 04 | Mayor (r) Efraín Enrique Prada Correa Comandante BCG79 | 20201118
+Casos 03 - 04 | Mayor (r) Efraín Enrique Prada Correa Comandante BCG79 | 20201104
+Casos 03 - 04 | Mayor Coronel (r) David Herley Guzmán Ramírez Comandante BCG79 | 20201103
+Casos 03 - 04 | Soldado Profesional (r) Levis de Jesús Contreras BCG 79 | 20201026
+Casos 03 - 04 | Soldado Profesional (r) Luis Fidel Arenas Rodríguez BCG 79 | 20201023
+Casos 03 - 04 | Sargento Segundo (r) Ferney Triana Lozano BCG 79 | 20201021
+Casos 03 - 03 | Soldado Profesional (a) Carlos Eduardo Chiquito BCG 79 | 20201020
+Casos 03 - 04 | Soldado Profesional (r) Juan David Aguirre BCG 79 | 20201006
+Casos 03 - 04 | Soldado Profesional (r) Ramiro Agudelo Duque BCG79 | 20201019
+Casos 03 - 04 | Teniente Capitán (r) Manuel Antonio Quintero Flórez BCG 79 | 20201007
+Casos 03 - 04 | Soldado Profesional (r) Levis de Jesús Contreras Salgado BCG 79 | 20201009
+Casos 03 - 04 | Soldado Profesional (r) Luis Fidel Arenas Rodríguez BCG 79 | 20201013
+Casos 03 - 04 | Soldado Profesional (r) Oswaldo Manuel Arrieta Lara BCG 79 | 20201002
+Casos 03 - 04 | Soldado Profesional (r) Ricardo Manuel Buelvas Lozano BCG 79 | 20200930
+Casos 03 - 04 | Soldado Profesional (r) Carlos Andrés Carabalí  BCG 79 | 20200929
+Caso 03 | Sargento Primero (r) Jaime Coral Trujillo BCG 79 | 20200225
+Reanudación Audiencia de Sometimiento del General (R) Mario Montoya | Octubre 17 de 2018 | Parte 1
+Reanudación Audiencia de Sometimiento del General (R) Mario Montoya | Octubre 17 de 2018 | Parte 2
+Audiencia de Sometimiento del General (R) Mario Montoya | Septiembre 13 de 2018 | HD
+Audiencia de Sometimiento y Régimen de Condicionalidad | Caso Soacha | Agosto 10 de 2018 |  HD

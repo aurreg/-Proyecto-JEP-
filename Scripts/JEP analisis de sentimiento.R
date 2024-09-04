@@ -19,12 +19,38 @@ library(xtable)
 
 subtitulos_JEP_03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Scraping/subtitulos_JEP_03.csv")
 
+stop_words_es<-read.table("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/stop_words_spanish.txt", quote="\"",
+                          comment.char="")
+FilPal <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/FilPal.txt", col_names = FALSE)
+
+stop_words_es<-c(stop_words_es$V1,FilPal$X1)
+
+stop_words_es <- tibble(word = unlist(stop_words_es), lexicon = "custom")
+
+jep03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/jep03.txt", col_names = FALSE)
+
+jep03<-jep03$X1  
+
+subtitulos_JEP_03<-subtitulos_JEP_03%>%
+  filter(Titulo %in% jep03)%>%
+  as.data.frame()
+
+subcasos<-c('Casanare','Huila','Caribe','Antioquia','Huila')
+
 # Preprocesar los subtítulos
 subtitulos_JEP_03 <- within(subtitulos_JEP_03, {
   Subtitulos <- str_to_lower(Subtitulos)  # Convertir a minúsculas
   Subtitulos <- str_replace_all(Subtitulos, "[^a-záéíóúüñ ]", "")  # Eliminar caracteres no alfabéticos
   Subtitulos <- str_squish(Subtitulos)  # Eliminar espacios en blanco adicionales
 })
+
+#correr esta linea para hacer subcasos
+#subtitulos_JEP_032<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
+
+
+
+# Preprocesar los subtítulos
+
 
 # Tokenizar todos los subtítulos
 tokenized_subtitles <- subtitulos_JEP_03 %>%
@@ -33,8 +59,6 @@ tokenized_subtitles <- subtitulos_JEP_03 %>%
 
 # Eliminar stopwords
 
-stop_words_es <- tibble(word = unlist(c(read.table("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/stop_words_spanish.txt", quote="\"",
-                                                   comment.char=""))), lexicon = "custom")
 tokenized_subtitles <- tokenized_subtitles %>%
   anti_join(stop_words_es, by = "word")
 
@@ -60,21 +84,30 @@ tidy_subtitles_annotated = udpipe_annotate(model,
                                            x = tokenized_subtitles$word, 
                                            doc_id = tokenized_subtitles$Titulo)
 
+
+# AQUI AQUI 
 tidy_subtitles_annotated = as_tibble(tidy_subtitles_annotated)
 
 # Renombrar la columna para tener el token
 names(tidy_subtitles_annotated)[6] = "Token"
 
 # Eliminar stopwords adicionales y puntuación
-tidy_subtitles_annotated = tidy_subtitles_annotated %>% 
-  anti_join(stop_words_es, by = c("Token" = "word")) %>% 
-  mutate(Token = str_remove_all(Token, "[[:punct:]]")) %>% 
+tidy_subtitles_annotated <- tidy_subtitles_annotated %>% 
+  # Eliminar puntuación
+  mutate(Token = str_remove_all(Token, "[[:punct:]]")) %>%
+  # Reemplazar Token con lemma si está disponible
+  mutate(Token = case_when(
+    !is.na(lemma) ~ lemma,
+    TRUE ~ Token
+  )) %>%
+  # Filtrar Tokens vacíos
   filter(Token != "")
+
 
 # Analisis frecuencia lemmas
 #######
 tidy_subtitles_annotated %>% 
-  count(lemma, sort = TRUE) %>%
+  count(Token, sort = TRUE) %>%
   head(n = 10)
 
 color_inicial <- "#008080"
@@ -82,10 +115,10 @@ color_final <- "#011f4b"
 
 
 p1 <- tidy_subtitles_annotated  %>%
-  count(lemma, sort = TRUE) %>%
+  count(Token, sort = TRUE) %>%
   filter(n > 20000) %>%
-  mutate(lemma = reorder(lemma, n)) %>%
-  ggplot(aes(x = lemma, y = n, fill = n)) +  # Usar 'n' para definir el degradado
+  mutate(Token = reorder(Token, n)) %>%
+  ggplot(aes(x = Token, y = n, fill = n)) +  # Usar 'n' para definir el degradado
   theme_light() + 
   geom_col(alpha = 1) +  # No es necesario especificar fill aquí
   scale_fill_gradient(low = color_inicial, high = color_final) +  # Agregar el degradado de color
@@ -104,8 +137,8 @@ Col = c("#14213d")
 
 # Definir el tamaño del layout con la función png()
 tidy_subtitles_annotated %>%
-  count(lemma, sort = TRUE) %>%
-  with(wordcloud(words = lemma, scale=c(4,1), freq = n, max.words = 100, colors= Col ))
+  count(Token, sort = TRUE) %>%
+  with(wordcloud(words = Token, scale=c(4,1), freq = n, max.words = 100, colors= Col ))
 
 # Añadir título
 title(main = "NUBE DE PALABRAS - CASO 3")
@@ -115,7 +148,7 @@ title(main = "NUBE DE PALABRAS - CASO 3")
 
 tidy_subtitles_annotated %>%
   mutate(author = "CASO 3") %>%  
-  count(author, lemma) %>%
+  count(author, Token) %>%
   group_by(author) %>%
   mutate(proportion = n / sum(n)) %>%
   select(-n) %>%
@@ -126,10 +159,8 @@ head(frecuencia, 20)
 
 # Análisis de Frecuencia por Etiqueta POS
 
-decir<-tidy_subtitles_annotated%>%filter(lemma=='acar')
-tail(decir$Token)
 
-frecuencia<-tidy_subtitles_annotated%>%group_by(lemma)%>%summarise(frecuencia=n())
+frecuencia<-tidy_subtitles_annotated%>%group_by(Token)%>%summarise(frecuencia=n())
 frecuencia<-frecuencia%>%arrange(desc(frecuencia))
 
 
@@ -160,6 +191,8 @@ tidy_subtitles_annotated %>%
 # Importacion diccionario AFINN
 lexico_afinn <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/lexico_afinn.csv", 
                          col_types = cols(word = col_skip()))
+# como es una traduccion hay palabras repetidas por lo tanto se hace un promedio de los puntajes
+lexico_afinn<-lexico_afinn %>%group_by(palabra)%>%summarise(puntuacion=mean(puntuacion))
 
 # Importacion de diccionario con palabras negativas y positivas
 
@@ -172,15 +205,15 @@ sentiment_words <- bind_rows(positive_words, negative_words)
 
 
 # hacer join con los lemmas obtenidos por el lematizador de palabras
-tidy_subtitles_annotated<-tidy_subtitles_annotated%>%left_join(lexico_afinn,by=c('lemma'='palabra'))
+tidy_subtitles_annotated2<-tidy_subtitles_annotated%>%left_join(lexico_afinn,by=c('Token'='palabra'))
 
 
 # dejar las columnas de interes para hacer el analisis de sentimiento 
 
-AFIN<-tidy_subtitles_annotated%>%select(doc_id,lemma,puntuacion)
+AFIN<-tidy_subtitles_annotated2%>%select(doc_id,Token,puntuacion)
 
 # hacer el join con el df de palabras negativas y positivas
-AFIN<-AFIN%>%left_join(sentiment_words, by=c('lemma'='word'))
+AFIN<-AFIN%>%left_join(sentiment_words, by=c('Token'='word'))
 
 # dejar unicamente las filas que no tengan NA en AFINN(puntuacion) o sentiment
 # con el filter se añade nuevos valores a sentiment 
@@ -287,8 +320,9 @@ Tabla
 
 
 ## ------------------------------- PROPORCION GRAFICA 1 
-PP<-AFIN_positivo$frecuencia
-PN<-AFIN_negativo$frecuencia
+PP<-AFIN_positivo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
+PN<-AFIN_negativo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
+
 # Crear densidades kernel para PP y PN
 densidad_PP <- density(PP)
 densidad_PN <- density(PN)
@@ -333,4 +367,5 @@ mann_whitney_test_PP_PN <- wilcox.test(PN, PP, alternative = "greater")
 # Imprimir el resultado de la prueba de Mann-Whitney-Wilcoxon
 print("Prueba de Mann-Whitney-Wilcoxon para PN y PP:")
 print(mann_whitney_test_PP_PN)
+
 

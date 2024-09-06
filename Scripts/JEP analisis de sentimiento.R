@@ -45,7 +45,7 @@ subtitulos_JEP_03 <- within(subtitulos_JEP_03, {
 })
 
 #correr esta linea para hacer subcasos
-#subtitulos_JEP_032<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
+subtitulos_JEP_03<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
 
 
 
@@ -116,7 +116,7 @@ color_final <- "#011f4b"
 
 p1 <- tidy_subtitles_annotated  %>%
   count(Token, sort = TRUE) %>%
-  filter(n > 20000) %>%
+  filter(n > 5000) %>%
   mutate(Token = reorder(Token, n)) %>%
   ggplot(aes(x = Token, y = n, fill = n)) +  # Usar 'n' para definir el degradado
   theme_light() + 
@@ -160,8 +160,12 @@ head(frecuencia, 20)
 # Análisis de Frecuencia por Etiqueta POS
 
 
-frecuencia<-tidy_subtitles_annotated%>%group_by(Token)%>%summarise(frecuencia=n())
-frecuencia<-frecuencia%>%arrange(desc(frecuencia))
+frecuencia<-tidy_subtitles_annotated%>%
+  group_by(Token)%>%
+  summarise(frecuencia=n())
+
+frecuencia<-frecuencia%>%
+  arrange(desc(frecuencia))
 
 
 tidy_subtitles_annotated %>% 
@@ -206,7 +210,7 @@ sentiment_words <- bind_rows(positive_words, negative_words)
 
 # hacer join con los lemmas obtenidos por el lematizador de palabras
 tidy_subtitles_annotated2<-tidy_subtitles_annotated%>%left_join(lexico_afinn,by=c('Token'='palabra'))
-
+str(tidy_subtitles_annotated2)
 
 # dejar las columnas de interes para hacer el analisis de sentimiento 
 
@@ -233,13 +237,15 @@ AFIN<-AFIN %>%
 AFIN2<-AFIN%>%
   group_by(doc_id, sentiment) %>%
   summarise(media = mean(puntuacion,na.rm = T), frecuencia=n())
+
 AFIN2%>%filter(sentiment=='Neutro')
 
 AFIN_negativo<-AFIN2%>%filter(sentiment=='Negativo' & !is.na(media))
+
 AFIN_positivo<-AFIN2%>%filter(!is.na(media))%>%
-  filter(sentiment=='Positivo')%>%
-  right_join(AFIN_negativo,by=c('doc_id'='doc_id'))%>%
-  select(sentiment=sentiment.x, media=media.x,frecuencia=frecuencia.x)
+  filter(sentiment=='Positivo')%>%as.data.frame()
+  #right_join(AFIN_negativo,by=c('doc_id'='doc_id'))%>%
+  #select(sentiment=sentiment.x, media=media.x,frecuencia=frecuencia.x)
 
 par(mfrow = c(1, 2))
 

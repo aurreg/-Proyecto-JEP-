@@ -1,7 +1,6 @@
 # Librerias
 # lematizador udpipe
 library(udpipe)
-#
 library(stringr)
 library(tibble)
 library(readr)
@@ -15,20 +14,17 @@ library(magrittr)
 library(igraph)
 library(ngram)
 library(xtable)
+
 # Leer los subtitulos automatico de la lista del caso 03 de la JEP de youtbe
 
-subtitulos_JEP_03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Scraping/subtitulos_JEP_03.csv")
-
-stop_words_es<-read.table("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/stop_words_spanish.txt", quote="\"",
-                          comment.char="")
-FilPal <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/FilPal.txt", col_names = FALSE)
+subtitulos_JEP_03 <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Scraping/subtitulos_JEP_03.csv")
+stop_words_es<-read.table("~/REPOS GIT/-Proyecto-JEP-/Data/stop_words_spanish.txt", quote="\"", comment.char="")
+FilPal <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Data/FilPal.txt", col_names = FALSE)
 
 stop_words_es<-c(stop_words_es$V1,FilPal$X1)
-
 stop_words_es <- tibble(word = unlist(stop_words_es), lexicon = "custom")
 
-jep03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/jep03.txt", col_names = FALSE)
-
+jep03 <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Data/jep03.txt", col_names = FALSE)
 jep03<-jep03$X1  
 
 subtitulos_JEP_03<-subtitulos_JEP_03%>%
@@ -45,14 +41,17 @@ subtitulos_JEP_03 <- within(subtitulos_JEP_03, {
 })
 
 #correr esta linea para hacer subcasos
+<<<<<<< Updated upstream
 #subtitulos_JEP_03<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
 
 
+=======
+subtitulos_JEP_03<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[3]))
+>>>>>>> Stashed changes
 
 # Preprocesar los subtítulos
-
-
 # Tokenizar todos los subtítulos
+
 tokenized_subtitles <- subtitulos_JEP_03 %>%
   unnest_tokens(input = Subtitulos, output = word) %>%
   filter(!is.na(word))
@@ -70,17 +69,16 @@ tokenized_subtitles <- tokenized_subtitles %>%
                        new = replacement_list %>% str_c(collapse = ''),
                        x = word))
 
-# udpipe::udpipe_download_model('spanish') # Descomentar al ejecutar por primera vez
+#udpipe::udpipe_download_model('spanish') # Descomentar al ejecutar por primera vez
 
 # Cargar el modelo de idioma español
-model = udpipe_load_model(file = "C:/Users/Pc/Documents/spanish-gsd-ud-2.5-191206.udpipe")
+model = udpipe_load_model(file = "~/REPOS GIT/-Proyecto-JEP-/Scripts/spanish-gsd-ud-2.5-191206.udpipe")
 
 # Anotar todos los subtítulos utilizando udpipe
 # esto se puede hacer por video pero tarda mucho
-tidy_subtitles_annotated = udpipe_annotate(model, 
-                                           x = tokenized_subtitles$word, 
-                                           doc_id = tokenized_subtitles$Titulo)
 
+tidy_subtitles_annotated = udpipe_annotate(model, x = tokenized_subtitles$word, 
+                                           doc_id = tokenized_subtitles$Titulo)
 
 # AQUI AQUI 
 tidy_subtitles_annotated = as_tibble(tidy_subtitles_annotated)
@@ -102,7 +100,6 @@ tidy_subtitles_annotated <- tidy_subtitles_annotated %>%
 
 
 # Analisis frecuencia lemmas
-#######
 tidy_subtitles_annotated %>% 
   count(Token, sort = TRUE) %>%
   head(n = 10)
@@ -110,10 +107,12 @@ tidy_subtitles_annotated %>%
 color_inicial <- "#008080"
 color_final <- "#011f4b"
 
+# Casanare n > 5000
+# huila n > 10000
 
 p1 <- tidy_subtitles_annotated  %>%
   count(Token, sort = TRUE) %>%
-  filter(n > 5000) %>%
+  filter(n > 3) %>%
   mutate(Token = reorder(Token, n)) %>%
   ggplot(aes(x = Token, y = n, fill = n)) +  # Usar 'n' para definir el degradado
   theme_light() + 
@@ -156,14 +155,12 @@ head(frecuencia, 20)
 
 # Análisis de Frecuencia por Etiqueta POS
 
-
 frecuencia<-tidy_subtitles_annotated%>%
   group_by(Token)%>%
   summarise(frecuencia=n())
 
 frecuencia<-frecuencia%>%
   arrange(desc(frecuencia))
-
 
 tidy_subtitles_annotated %>% 
   count(upos) %>% 
@@ -190,22 +187,23 @@ tidy_subtitles_annotated %>%
 
 # Analisis de sentimiento 
 # Importacion diccionario AFINN
-lexico_afinn <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/lexico_afinn.csv", 
+lexico_afinn <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Data/lexico_afinn.csv", 
                          col_types = cols(word = col_skip()))
+
 # como es una traduccion hay palabras repetidas por lo tanto se hace un promedio de los puntajes
 lexico_afinn<-lexico_afinn %>%group_by(palabra)%>%summarise(puntuacion=mean(puntuacion))
 
 # Importacion de diccionario con palabras negativas y positivas
 
-positive_words <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/positive_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
+positive_words <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Data/positive_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
   mutate(sentiment = "Positivo")
-negative_words <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/negative_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
+negative_words <- read_csv("~/REPOS GIT/-Proyecto-JEP-/Data/negative_words_es.txt", col_names = "word", show_col_types = FALSE) %>%
   mutate(sentiment = "Negativo")
 
 sentiment_words <- bind_rows(positive_words, negative_words)
 
-
 # hacer join con los lemmas obtenidos por el lematizador de palabras
+
 tidy_subtitles_annotated2<-tidy_subtitles_annotated%>%left_join(lexico_afinn,by=c('Token'='palabra'))
 str(tidy_subtitles_annotated2)
 
@@ -222,6 +220,7 @@ AFIN<-AFIN%>%left_join(sentiment_words, by=c('Token'='word'))
 # si es menor es negativa
 # si es igual es neutra
 # luego si no hay NA en sentiment se deja la categorizacion que habia en un principio
+
 AFIN<-AFIN %>%
   filter(!is.na(puntuacion) | !is.na(sentiment)) %>%
   mutate(sentiment=case_when(puntuacion > 0 & is.na(sentiment) ~ "Positivo",
@@ -231,6 +230,7 @@ AFIN<-AFIN %>%
 
 # se cuenta el numero de palabras negativas y positivas
 # asi como el promedio de las puntuaciones
+
 AFIN2<-AFIN%>%
   group_by(doc_id, sentiment) %>%
   summarise(media = mean(puntuacion,na.rm = T), frecuencia=n())
@@ -241,6 +241,7 @@ AFIN_negativo<-AFIN2%>%filter(sentiment=='Negativo' & !is.na(media))
 
 AFIN_positivo<-AFIN2%>%filter(!is.na(media))%>%
   filter(sentiment=='Positivo')%>%as.data.frame()
+  
   #right_join(AFIN_negativo,by=c('doc_id'='doc_id'))%>%
   #select(sentiment=sentiment.x, media=media.x,frecuencia=frecuencia.x)
 
@@ -249,7 +250,7 @@ par(mfrow = c(1, 2))
 # Tracer el histograma y la densidad de las proporciones de sentimientos positivos
 hist(AFIN_positivo$media, main = "Distribución de las medias \n de sentimientos positivos",
      xlab = "Medias de sentimientos positivos", ylab = "Frecuencia",
-     prob = TRUE, col = "lightgrey", ylim = c(0, 6), xlim = c(0.8, 2.5 ),
+     prob = TRUE, col = "lightgrey", ylim = c(0, 3.5), xlim = c(0.5, 2),
      border = "transparent")
 lines(density(AFIN_positivo$media), col = "4", lwd = 2)
 #abline( v = median(MP), col = "black", lwd = 2)
@@ -257,16 +258,16 @@ lines(density(AFIN_positivo$media), col = "4", lwd = 2)
 # Tracer el histograma y la densidad de las proporciones de sentimientos negativos
 hist((-1)*AFIN_negativo$media, main = "Distribución de las medias \n de sentimientos negativos",
      xlab = "Medias de sentimientos negativos", ylab = "Frecuencia",
-     prob = TRUE, col = "lightgrey", ylim = c(0, 2.5), xlim = c(1.2,3.3 ),
+     prob = TRUE, col = "lightgrey", ylim = c(0, 3.9), xlim = c(1.3, 2.4),
      border = "transparent")
 lines(density((-1)*AFIN_negativo$media), col = "2", lwd = 2)
 #abline( v = median(-MN), col = "black", lwd = 2)
 
-# Restaurar el diseño de gráficos predeterminado
 par(mfrow = c(1, 1))
+
 #Tomar el negativo de MN
 MN_negativo <- (-1)*AFIN_negativo$media
-MP=AFIN_positivo$media
+MP <- AFIN_positivo$media
 
 names(MN_negativo) <- NULL
 
@@ -282,8 +283,8 @@ ggplot(data, aes(x = x)) +
   theme_minimal() +
   theme(legend.position = "right",
         plot.title = element_text(hjust = 0.5))
-#### PRUEBAS DE BONDA DE AJUSTE PARA LA MEDIA
 
+#### PRUEBAS DE BONDA DE AJUSTE PARA LA MEDIA
 # PRUEBA DE NORMALIDAD PARA MP
 shapiro_test_MP <- shapiro.test(MP)
 print("Prueba de normalidad para MP:")
@@ -296,7 +297,6 @@ print(shapiro_test_MN)
 
 
 # PRUEBAS DE DIFERENCIA DE MEDIAS
-
 # Realizar las pruebas y guardar los resultados en una tabla
 Pruebas <- data.frame(
   Prueba = c("Mann-Whitney-Wilcoxon", "Suma de rangos con signo de Wilcoxon"),
@@ -319,12 +319,11 @@ row.names(Tabla) <- c("NEG","POS")
 Tabla
 
 
-## PARA LA PROPORCION
+## PARA LA PROPORCION ----
 
-
-## ------------------------------- PROPORCION GRAFICA 1 
-PP<-AFIN_positivo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
-PN<-AFIN_negativo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
+## PROPORCION GRAFICA 1 
+PP <- AFIN_positivo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
+PN <- AFIN_negativo$frecuencia/(AFIN_positivo$frecuencia+AFIN_negativo$frecuencia)
 
 # Crear densidades kernel para PP y PN
 densidad_PP <- density(PP)
@@ -337,7 +336,7 @@ densidades_df <- data.frame(x = c(densidad_PP$x, densidad_PN$x),
 
 # Gráfico ggplot
 ggplot(densidades_df, aes(x = x, y = y, color = grupo)) +
-  geom_line(size = 0.8) +
+  geom_line(linewidth = 0.8) +
   labs(x = "Proporción de \n sentimientos  ", y = "Densidad",
        title = "DENSIDADES DE LAS PROPORCIONES DE \n LOS SENTIMIENTOS POSITIVOS Y NEGATIVOS") +
   scale_color_manual(name = "Sentimientos", labels = c("Negativo", "Positivo"),

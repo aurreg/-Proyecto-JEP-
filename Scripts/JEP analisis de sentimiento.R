@@ -45,7 +45,7 @@ subtitulos_JEP_03 <- within(subtitulos_JEP_03, {
 })
 
 #correr esta linea para hacer subcasos
-subtitulos_JEP_03<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
+#subtitulos_JEP_03<-subset(subtitulos_JEP_03,str_detect(Titulo,subcasos[1]))
 
 
 
@@ -62,9 +62,6 @@ tokenized_subtitles <- subtitulos_JEP_03 %>%
 tokenized_subtitles <- tokenized_subtitles %>%
   anti_join(stop_words_es, by = "word")
 
-# Normalización de acentos
-
-replacement_list <- list('á' = 'a', 'é' = 'e', 'í' = 'i', 'ó' = 'o', 'ú' = 'u')
 
 # hacer tokenizacion conservando el nombre del video del que procede el video 
 

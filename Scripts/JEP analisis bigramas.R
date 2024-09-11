@@ -15,6 +15,7 @@ library(igraph)
 library(ngram)
 library(xtable)
 #######################################################################################
+setwd("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data")
 
 subtitulos_JEP_03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Scraping/subtitulos_JEP_03.csv")
 
@@ -169,7 +170,7 @@ modularity_values <- c(
 )
 
 # Finding the method with the highest modularity
-best_method <- names(which.max(modularity_values))
+best_method <- names(which.max(modularity_values))http://127.0.0.1:39927/graphics/plot_zoom_png?width=1536&height=814
 best_modularity <- max(modularity_values)
 
 # Printing the method with the highest modularity
@@ -181,6 +182,17 @@ unique(kc_louvain$membership)
 
 # Summarize the graph
 summary(g2)
+
+suppressMessages(suppressWarnings(library(RColorBrewer)))
+
+cols <- c(brewer.pal(9,"Set1")[1:9],brewer.pal(8,"Set2")[1:7],brewer.pal(8,"Set2")[1:7],brewer.pal(12,"Set3")[1:3])
+# viz 1
+set.seed(123)
+plot(g2, layout = layout_with_kk, vertex.color = adjustcolor(cols[kc_louvain$membership], 0.1), 
+     vertex.frame.color =adjustcolor(cols[kc_louvain$membership],0.5), vertex.size = ifelse(1.2*degree(g2)>2,1.2*degree(g2),2), 
+     vertex.label = NA, edge.color=adjustcolor('gray',0.8))
+
+
 
 # Extract word and cluster information
 word <- V(g2)$name

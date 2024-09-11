@@ -16,7 +16,7 @@ library(igraph)
 library(ngram)
 library(xtable)
 #######################################################################################
-
+setwd("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data")
 subtitulos_JEP_03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Scraping/subtitulos_JEP_03.csv")
 
 stop_words_es<-read.table("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/stop_words_spanish.txt", quote="\"",
@@ -115,11 +115,11 @@ plot(threshold, s,
 grid(nx = NULL, ny = NULL, col = 'gray', lty = 'dotted')
 
 # Adding a horizontal line at y=0 for reference
-abline(v = 20, col = 'red', lty = 2)
+abline(v = 40, col = 'red', lty = 2)
 
 suppressMessages(suppressWarnings(library(igraph)))
 gs <- skipgrams2 %>%
-  filter(weight > 20) %>%
+  filter(weight > 40) %>%
   select(word_1,word_2)%>%
   graph_from_data_frame(directed = FALSE)
 
@@ -163,7 +163,7 @@ modularity_values <- c(
   Infomap = mod_infomap,
   Label_Propagation = mod_label_prop,
   #Leading_Eigen = mod_leading_eigen,
-  #Leiden = mod_leiden,
+  Leiden = mod_leiden,
   Louvain = mod_louvain,
   Spinglass = mod_spinglass,
   Walktrap = mod_walktrap
@@ -177,15 +177,26 @@ best_modularity <- max(modularity_values)
 cat("Based on the modularity values, the method with the highest modularity is", best_method, "\n")
 cat("Modularity value:", best_modularity, "\n")
 
-# Display unique memberships of Louvain algorithm
-unique(kc_spinglass$membership)
+# Display unique memberships 
+unique(kc_fast_greedy$membership)
 
 # Summarize the graph
 summary(gs2)
 
+suppressMessages(suppressWarnings(library(RColorBrewer)))
+
+cols <- c(brewer.pal(9, "Set1"), brewer.pal(8, "Set2"), brewer.pal(12, "Set3"), brewer.pal(8, "Dark2"))
+# viz 1
+set.seed(123)
+plot(gs2, layout = layout_with_kk, vertex.color = adjustcolor(cols[kc_fast_greedy$membership], 0.1), 
+     vertex.frame.color =adjustcolor(cols[kc_fast_greedy$membership],0.5), vertex.size = ifelse(1.2*betweenness(gs2)>2,1.2*betweenness(gs2),2), 
+     vertex.label = NA, edge.color=adjustcolor('gray',0.8))
+
+
+
 # Extract word and cluster information
 word <- V(gs2)$name
-cluster <- kc_spinglass$membership
+cluster <- kc_fast_greedy$membership
 
 # Create dataframe for clusters
 cluster <- cbind(word, cluster)

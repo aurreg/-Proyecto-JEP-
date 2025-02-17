@@ -1,0 +1,34 @@
+Resumen de pruebas estadísticas (MP vs MN_negativo):
+"Estadística"	"Valor"
+"Media MP"	1.638
+"Media MN"	1.853
+"Mediana MP"	1.559
+"Mediana MN"	2.115
+"Shapiro-Wilk MP P-valor"	0.006
+"Shapiro-Wilk MN P-valor"	0
+"Mann-Whitney W"	28
+"Mann-Whitney P-valor"	0.098
+"Prueba Levene F"	0.322
+"Prueba Levene P-valor"	0.579
+"Prueba t T var.equa"	0.67
+"Prueba t P-valor var.equa"	0.262
+"Prueba t T"	0.67
+"Prueba t P-valor"	0.262
+
+--------------------------
+Resultados de la comparación de proporciones (PP vs PN):
+"Estadística"	"Valor"
+"Media PP"	0.478
+"Media PN"	0.522
+"Mediana PP"	0.482
+"Mediana PN"	0.518
+"Shapiro-Wilk PP P-valor"	0.847
+"Shapiro-Wilk PN P-valor"	0.847
+"Mann-Whitney W"	21
+"Mann-Whitney P-valor"	0.371
+"Prueba Levene F"	0
+"Prueba Levene P-valor"	1
+"Prueba t T var.equa"	0.23
+"Prueba t P-valor var.equa"	0.412
+"Prueba t T"	0.23
+"Prueba t P-valor"	0.412

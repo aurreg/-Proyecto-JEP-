@@ -1,0 +1,24 @@
+Cluster1: Tema o Tópico Principal: Experiencias y consecuencias de la violencia en comunidades
+Cluster2: Tema o Tópico Principal: Impacto de la violencia en la vida personal y familiar
+Cluster3: Tema o Tópico Principal: Procedimientos y participantes en audiencias judiciales
+Cluster4: Tema o Tópico Principal: Acciones militares y sus efectos en el territorio
+Cluster5: Tema o Tópico Principal: Procesos judiciales y reconocimiento de víctimas en la JEP
+Cluster6: Tema o Tópico Principal: Contexto social y consecuencias de la violencia
+Cluster7: Tema o Tópico Principal: Derechos humanos y violaciones en el conflicto
+Cluster8: Tema o Tópico Principal: Búsqueda de justicia y reconocimiento del sufrimiento
+Cluster9: Tema o Tópico Principal: Identificación de actores y roles en el conflicto
+Cluster10: Tema o Tópico Principal: Crímenes de guerra y responsabilidad penal
+Cluster11: Tema o Tópico Principal: Concepto de macrocriminalidad en el conflicto
+Cluster12: Tema o Tópico Principal: Víctimas individuales y afectación a sus familias
+Cluster13: Tema o Tópico Principal: Reflexiones personales sobre la muerte y la violencia
+Cluster14: Tema o Tópico Principal: Marco legal y derechos humanos en el contexto internacional
+Cluster15: Tema o Tópico Principal: Actuaciones del ejército y grupos armados en el conflicto
+Cluster16: Tema o Tópico Principal: Dinámicas de control territorial y acciones de grupos armados
+Cluster17: Tema o Tópico Principal: Prácticas de estigmatización y efectos en la comunidad
+Cluster18: Tema o Tópico Principal: Impacto del conflicto en comunidades indígenas y territorios
+Cluster19: Tema o Tópico Principal: Liderazgo y participación comunitaria en zonas afectadas
+Cluster20: Tema o Tópico Principal: Dinámicas del conflicto armado y persecución de civiles
+Cluster21: Tema o Tópico Principal: Procedimientos judiciales y apoyo a las víctimas
+Cluster22: Tema o Tópico Principal: Cambios en la dinámica del conflicto y apoyo a la población
+Cluster23: Tema o Tópico Principal: Desapariciones forzadas y búsqueda de justicia
+Cluster24: Tema o Tópico Principal: Activismo y defensa de derechos en la comunidad

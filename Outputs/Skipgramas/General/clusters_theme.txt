@@ -1,0 +1,28 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Operaciones militares y ejecuciones extrajudiciales
+Numerodecluster:2 TemaoTopicoPrincipal:Procedimientos judiciales y roles en el juicio
+Numerodecluster:3 TemaoTopicoPrincipal:Estructura y jerarquía militar
+Numerodecluster:4 TemaoTopicoPrincipal:Identificación de personal militar
+Numerodecluster:5 TemaoTopicoPrincipal:Desarrollo y ejecución de operaciones militares
+Numerodecluster:6 TemaoTopicoPrincipal:Ranking y roles dentro del ejército
+Numerodecluster:7 TemaoTopicoPrincipal:Procedimientos legales y de inspección
+Numerodecluster:8 TemaoTopicoPrincipal:Roles y grados militares inferiores
+Numerodecluster:9 TemaoTopicoPrincipal:Derecho internacional humanitario y jurisdicciones
+Numerodecluster:10 TemaoTopicoPrincipal:Sistema de justicia y procesos legales
+Numerodecluster:11 TemaoTopicoPrincipal:Contexto operacional y territorial del conflicto
+Numerodecluster:12 TemaoTopicoPrincipal:Testimonios y recordatorios de eventos
+Numerodecluster:13 TemaoTopicoPrincipal:Mando militar y zonas de operación
+Numerodecluster:14 TemaoTopicoPrincipal:Estructura organizacional y operativa del ejército
+Numerodecluster:15 TemaoTopicoPrincipal:Cadena de mando y toma de decisiones
+Numerodecluster:16 TemaoTopicoPrincipal:Desplazamiento y acciones de personal militar
+Numerodecluster:17 TemaoTopicoPrincipal:Grupos especiales y tratamiento del conflicto
+Numerodecluster:18 TemaoTopicoPrincipal:Servicios y asesorías en el contexto militar
+Numerodecluster:19 TemaoTopicoPrincipal:Violaciones a los derechos humanos y grupos armados
+Numerodecluster:20 TemaoTopicoPrincipal:Planificación y objetivos de las unidades militares
+Numerodecluster:21 TemaoTopicoPrincipal:Estructura y características del personal militar
+Numerodecluster:22 TemaoTopicoPrincipal:Gestión de información y resultados operativos
+Numerodecluster:23 TemaoTopicoPrincipal:Impacto del conflicto en las comunidades y víctimas
+Numerodecluster:24 TemaoTopicoPrincipal:Referencias geográficas y culturales
+Numerodecluster:25 TemaoTopicoPrincipal:Referencias geográficas
+Numerodecluster:26 TemaoTopicoPrincipal:Casos de "falsos positivos"
+Numerodecluster:27 TemaoTopicoPrincipal:Apellidos de personas relacionadas al caso
+Numerodecluster:28 TemaoTopicoPrincipal:Apellidos de personas relacionadas al caso

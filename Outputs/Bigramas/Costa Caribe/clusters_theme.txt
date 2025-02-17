@@ -1,0 +1,17 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Agentes del Estado y militares implicados
+Numerodecluster:2 TemaoTopicoPrincipal:Sistemas de justicia y marcos legales
+Numerodecluster:3 TemaoTopicoPrincipal:Agentes del Estado y procesos judiciales
+Numerodecluster:4 TemaoTopicoPrincipal:Unidades militares y estructuras armadas
+Numerodecluster:5 TemaoTopicoPrincipal:Dinámicas y estructuras criminales
+Numerodecluster:6 TemaoTopicoPrincipal:Militares y personas asociadas
+Numerodecluster:7 TemaoTopicoPrincipal:Procesos y espacios judiciales
+Numerodecluster:8 TemaoTopicoPrincipal:Víctimas y actores asociados
+Numerodecluster:9 TemaoTopicoPrincipal:Comunidades indígenas y autoridades étnicas
+Numerodecluster:10 TemaoTopicoPrincipal:Familiares y afectados por el conflicto
+Numerodecluster:11 TemaoTopicoPrincipal:Víctimas y contextos de victimización
+Numerodecluster:12 TemaoTopicoPrincipal:Individuos posiblemente relacionados con el caso
+Numerodecluster:13 TemaoTopicoPrincipal:Personas posiblemente relacionadas con testimonios o declaraciones
+Numerodecluster:14 TemaoTopicoPrincipal:Entidades judiciales y mecanismos de protección de derechos
+Numerodecluster:15 TemaoTopicoPrincipal:Procesos judiciales y representación legal
+Numerodecluster:16 TemaoTopicoPrincipal:Personas posiblemente implicadas en el caso
+Numerodecluster:17 TemaoTopicoPrincipal:Individuos potencialmente relacionados con el caso o el contexto judicial

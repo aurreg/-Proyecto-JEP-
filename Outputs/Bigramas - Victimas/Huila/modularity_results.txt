@@ -1,0 +1,2 @@
+"Best_Method","Modularity_Value","Unique_Memberships"
+"Louvain",0.755689313039524,24

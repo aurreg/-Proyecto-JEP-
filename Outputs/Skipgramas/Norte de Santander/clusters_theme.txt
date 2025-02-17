@@ -1,0 +1,24 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Proceso de justicia y reparación en el contexto de la JEP
+Numerodecluster:2 TemaoTopicoPrincipal:Relatos de víctimas y reconstrucción de eventos violentos
+Numerodecluster:3 TemaoTopicoPrincipal:Impacto humano y emocional del conflicto armado
+Numerodecluster:4 TemaoTopicoPrincipal:Desarrollo del proceso judicial y búsqueda de verdad
+Numerodecluster:5 TemaoTopicoPrincipal:Responsabilidad social y ética en el contexto del conflicto
+Numerodecluster:6 TemaoTopicoPrincipal:Procesos y estructuras militares relacionados con el conflicto
+Numerodecluster:7 TemaoTopicoPrincipal:Identificación y recuperación de cuerpos de víctimas
+Numerodecluster:8 TemaoTopicoPrincipal:Testimonios y experiencias personales relacionadas con el conflicto
+Numerodecluster:9 TemaoTopicoPrincipal:Marco legal y políticas de reparación y reincorporación
+Numerodecluster:10 TemaoTopicoPrincipal:Impacto del conflicto en las familias y llamados a la empatía y reconciliación
+Numerodecluster:11 TemaoTopicoPrincipal:Mecanismos de justicia transicional y reconocimiento de responsabilidades
+Numerodecluster:12 TemaoTopicoPrincipal:Retos en la reconstrucción de la memoria y dignidad
+Numerodecluster:13 TemaoTopicoPrincipal:Rol del ejército y estructuras de comando implicadas en el conflicto
+Numerodecluster:14 TemaoTopicoPrincipal:Metodologías y patrones de violencia asociados al conflicto
+Numerodecluster:15 TemaoTopicoPrincipal:Interacciones personales y nombres asociados al conflicto
+Numerodecluster:16 TemaoTopicoPrincipal:Impacto social y político del conflicto en Colombia
+Numerodecluster:17 TemaoTopicoPrincipal:Experiencias individuales y responsabilidad en actos de violencia
+Numerodecluster:18 TemaoTopicoPrincipal:Denuncias y responsabilidad en la perpetuación de crímenes
+Numerodecluster:19 TemaoTopicoPrincipal:Responsabilidad de altos mandos y estructura de comando
+Numerodecluster:20 TemaoTopicoPrincipal:Desafíos en la búsqueda de la verdad y la justicia
+Numerodecluster:21 TemaoTopicoPrincipal:Detalles de los actos de violencia y sus consecuencias
+Numerodecluster:22 TemaoTopicoPrincipal:Condiciones y circunstancias de la vida en zonas de conflicto
+Numerodecluster:23 TemaoTopicoPrincipal:Impacto del conflicto en comunidades y regiones específicas
+Numerodecluster:24 TemaoTopicoPrincipal:Aspectos sociales y económicos relacionados con el conflicto

@@ -1,0 +1,16 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Impacto en víctimas y llamado a la justicia
+Numerodecluster:2 TemaoTopicoPrincipal:Gratitud y llamados a la acción
+Numerodecluster:3 TemaoTopicoPrincipal:Identificación de víctimas individuales
+Numerodecluster:4 TemaoTopicoPrincipal:Familiares de las víctimas y consecuencias personales
+Numerodecluster:5 TemaoTopicoPrincipal:Dirigentes y autoridades involucradas
+Numerodecluster:6 TemaoTopicoPrincipal:Sistema de justicia y demanda de honorabilidad
+Numerodecluster:7 TemaoTopicoPrincipal:Individuos implicados o afectados
+Numerodecluster:8 TemaoTopicoPrincipal:Víctimas individuales del conflicto
+Numerodecluster:9 TemaoTopicoPrincipal:Entidades de seguridad y defensa
+Numerodecluster:10 TemaoTopicoPrincipal:Personas relacionadas con las víctimas
+Numerodecluster:11 TemaoTopicoPrincipal:Derechos humanos y victimización
+Numerodecluster:12 TemaoTopicoPrincipal:Proceso de reparación y justicia
+Numerodecluster:13 TemaoTopicoPrincipal:Personas relacionadas con el caso o el proceso
+Numerodecluster:14 TemaoTopicoPrincipal:Procedimientos y decisiones judiciales
+Numerodecluster:15 TemaoTopicoPrincipal:Impacto en familias y comunidades
+Numerodecluster:16 TemaoTopicoPrincipal:Fuerzas de seguridad del Estado y opinión pública

@@ -1,0 +1,26 @@
+1: Tema o Tópico Principal: Grupos armados y derechos humanos en el conflicto
+2: Tema o Tópico Principal: Operaciones militares y muertes ilegítimas
+3: Tema o Tópico Principal: Estructura y justicia militar
+4: Tema o Tópico Principal: Procedimientos y formularios de declaración
+5: Tema o Tópico Principal: Oficiales y personal militar involucrado
+6: Tema o Tópico Principal: Orden táctico y estratégico militar
+7: Tema o Tópico Principal: Ubicaciones geográficas y unidades de operación
+8: Tema o Tópico Principal: Soldados y roles militares
+9: Tema o Tópico Principal: Rangos militares y nombres asociados
+10: Tema o Tópico Principal: Sargentos y personal militar de alto rango
+11: Tema o Tópico Principal: Víctimas y actores del conflicto
+12: Tema o Tópico Principal: Nombres propios y roles legales
+13: Tema o Tópico Principal: Investigación y testimonios
+14: Tema o Tópico Principal: Inteligencia y seguimiento de operaciones
+15: Tema o Tópico Principal: Comandos y estructura de brigadas
+16: Tema o Tópico Principal: Conocimiento y responsabilidad en la cadena de mando
+17: Tema o Tópico Principal: Planes y estrategias criminales
+18: Tema o Tópico Principal: Nombres propios y colectivos involucrados
+19: Tema o Tópico Principal: Casos específicos y diligencias judiciales
+20: Tema o Tópico Principal: Discursos y solicitudes de perdón
+21: Tema o Tópico Principal: Armamento y apoyo logístico
+22: Tema o Tópico Principal: Memoria y reconocimiento de acciones
+23: Tema o Tópico Principal: Mando y control operacional
+24: Tema o Tópico Principal: Operaciones y ejecuciones planificadas
+25: Tema o Tópico Principal: Información y manejo de la misma
+26: Tema o Tópico Principal: Procesos judiciales y responsabilidades administrativas

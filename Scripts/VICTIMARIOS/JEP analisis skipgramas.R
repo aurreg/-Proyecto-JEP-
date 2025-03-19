@@ -34,6 +34,7 @@ correcciones_df <-correcciones_df%>%
   filter(Correccion=="")
 
 
+
 stop_words_es<-c(stop_words_es$V1,FilPal$X1,correcciones_df$Palabra_Original)
 
 stop_words_es <- tibble(word = unlist(stop_words_es), lexicon = "custom")
@@ -241,7 +242,7 @@ tab <- cbind(c("Dist. media","Grado media","Grado desviación","Número clan","D
 )
 tab
 
-write.table(tab, sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
+write.table(tab,"tab.txt", sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
 
 
 centralidad<-tibble(word = V(g2)$name, eigen = eigen_centrality(g2, scale = T)$vector)
@@ -259,7 +260,7 @@ cluster <- cbind(word, cluster,eigen)
 cluster <- as.data.frame(cluster)
 
 
-write.table(cluster, sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
+write.table(cluster, "clusters_jep.txt",sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
 
 
 

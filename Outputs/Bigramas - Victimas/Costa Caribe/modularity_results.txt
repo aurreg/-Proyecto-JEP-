@@ -1,2 +1,2 @@
 "Best_Method","Modularity_Value","Unique_Memberships"
-"Fast_Greedy",0.859070189197137,26
+"Infomap",0.511363636363636,7

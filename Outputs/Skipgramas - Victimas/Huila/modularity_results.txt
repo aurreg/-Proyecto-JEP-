@@ -1,2 +1,2 @@
 "Best_Method","Modularity_Value","Unique_Memberships"
-"Spinglass",0.338824057331329,16
+"Spinglass",0.426480173964402,21

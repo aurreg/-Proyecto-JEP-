@@ -1,0 +1,7 @@
+Cluster1: Hugo Maestre Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales
+Cluster2: Enrique Arias Carrillo Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales
+Cluster3: Familia Canama Tema o Tópico Principal: Víctimas del conflicto armado
+Cluster4: Uriel Evangelista Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales
+Cluster5: Carolina Torres Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales
+Cluster6: Moisés Don Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales
+Cluster7: Norelis Martínez Tema o Tópico Principal: Personas asociadas a las ejecuciones extrajudiciales

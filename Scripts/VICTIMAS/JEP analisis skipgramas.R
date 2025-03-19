@@ -44,6 +44,8 @@ Todos_Titles<-Todos_Titles%>%filter(PRESUNTO==0)%>%select(Titulo)
 Todos_Titles<-Todos_Titles$Titulo
 
 
+
+
 subtitulos_JEP_03<-subtitulos_JEP_03%>%
   filter(Titulo %in% Todos_Titles)%>%
   mutate(Subtitulos= str_replace_all(Subtitulos, "\\[Música\\]", "")) %>%
@@ -241,7 +243,7 @@ tab <- cbind(c("Dist. media","Grado media","Grado desviación","Número clan","D
 )
 tab
 
-write.table(tab, sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
+write.table(tab, "tab.txt",sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
 
 
 centralidad<-tibble(word = V(g2)$name, eigen = eigen_centrality(g2, scale = T)$vector)
@@ -259,7 +261,7 @@ cluster <- cbind(word, cluster,eigen)
 cluster <- as.data.frame(cluster)
 
 
-write.table(cluster, sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
+write.table(cluster,"clusters_jep.txt" ,sep = ",", row.names = FALSE, col.names = TRUE, fileEncoding = "UTF-8")
 
 
 

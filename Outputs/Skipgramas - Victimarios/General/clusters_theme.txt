@@ -1,0 +1,18 @@
+Cluster1: Tareas y operaciones logísticas militares
+Cluster2: Responsabilidad y participación en el conflicto
+Cluster3: Finanzas y relaciones de autoría en el contexto militar
+Cluster4: Procesos y procedimientos judiciales
+Cluster5: Procesos judiciales y representación de las víctimas
+Cluster6: Marco legal y procesos de justicia especial
+Cluster7: Recuerdo y reconocimiento de operativos militares
+Cluster8: Vida y operaciones en unidades militares
+Cluster9: Resultados operacionales y presiones en el contexto militar
+Cluster10: Inteligencia, comando y control en operaciones militares
+Cluster11: Obligaciones y procesos judiciales
+Cluster12: Beneficios y condiciones de desmovilización
+Cluster13: Procedimientos forenses y levantamiento de cuerpos
+Cluster14: Política y democracia en el contexto del conflicto
+Cluster15: Territorio y construcción de paz
+Cluster16: Reconocimiento de responsabilidad y procesos de paz
+Cluster17: Identidad étnica y pertenencia en el contexto del conflicto
+Cluster18: Acciones y procedimientos de las fuerzas armadas

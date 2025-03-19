@@ -1,0 +1,20 @@
+Cluster1: Participación y representación en audiencias judiciales
+Cluster2: Comunidades indígenas afectadas por el conflicto
+Cluster3: Observaciones y cuestionamientos a resultados operacionales
+Cluster4: Víctimas individuales y familiares afectados
+Cluster5: Sistemas de justicia y reparación de víctimas
+Cluster6: Crímenes de lesa humanidad y violaciones de derechos humanos
+Cluster7: Nombres propios posiblemente de víctimas o involucrados
+Cluster8: Procedimientos legales y contexto del conflicto armado
+Cluster9: Nombres propios posiblemente de víctimas o involucrados
+Cluster10: Nombres propios posiblemente de víctimas o involucrados
+Cluster11: Peticiones de perdón y reflexiones personales
+Cluster12: Nombres propios y rangos militares
+Cluster13: Grupos armados y participantes en el conflicto
+Cluster14: Nombres propios posiblemente de víctimas o involucrados
+Cluster15: Nombres propios posiblemente de responsables o comparecientes
+Cluster16: Impacto y consecuencias del daño causado
+Cluster17: Aspectos militares y manipulación de operaciones
+Cluster18: Víctimas y consecuencias sociales del conflicto
+Cluster19: Víctimas y falsos positivos en el conflicto
+Cluster20: Nombres propios posiblemente de víctimas o involucrados

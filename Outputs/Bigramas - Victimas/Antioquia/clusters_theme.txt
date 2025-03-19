@@ -1,0 +1,44 @@
+Cluster1: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster2: Nombres propios, principalmente de mujeres, que podrían estar relacionadas con el caso.
+TemaPrincipal: Víctimas o testigos femeninos
+
+Cluster3: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster4: Términos militares y rangos que sugieren una conexión con unidades del ejército o estructuras militares.
+TemaPrincipal: Estructura y unidades militares
+
+Cluster5: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster6: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster7: Nombres propios que sugieren una conexión con individuos relacionados con el caso.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster8: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster9: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster10: Palabras asociadas a testimonios y experiencias personales.
+TemaPrincipal: Testimonios y relatos de víctimas
+
+Cluster11: Nombres propios y lugares que podrían estar relacionados con hechos o contextos específicos del caso.
+TemaPrincipal: Lugares y personas asociadas al caso
+
+Cluster12: Nombres propios y términos familiares que sugieren una conexión personal con las víctimas o testigos.
+TemaPrincipal: Familiares de víctimas o testigos
+
+Cluster13: Nombres propios y términos geográficos que podrían estar relacionados con lugares específicos del caso.
+TemaPrincipal: Lugares y personas asociadas al caso
+
+Cluster14: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso
+
+Cluster15: Nombres propios asociados a personas potencialmente involucradas o mencionadas en los casos.
+TemaPrincipal: Personajes relacionados con el caso

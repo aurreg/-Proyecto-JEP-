@@ -1,0 +1,23 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Comunicaciones y procedimientos en contextos rurales
+Numerodecluster:2 TemaoTopicoPrincipal:Víctimas y acciones violentas
+Numerodecluster:3 TemaoTopicoPrincipal:Información personal y familiar de los involucrados
+Numerodecluster:4 TemaoTopicoPrincipal:Procedimientos y eventos legales
+Numerodecluster:5 TemaoTopicoPrincipal:Alias e identificación de individuos
+Numerodecluster:6 TemaoTopicoPrincipal:Recuerdos y experiencias personales de los soldados
+Numerodecluster:7 TemaoTopicoPrincipal:Equipamiento y logística militar
+Numerodecluster:8 TemaoTopicoPrincipal:Gastos y recursos en operaciones
+Numerodecluster:9 TemaoTopicoPrincipal:Propiedades y distancias geográficas
+Numerodecluster:10 TemaoTopicoPrincipal:Actividades recreativas y deportivas
+Numerodecluster:11 TemaoTopicoPrincipal:Rangos y nombres de personal militar
+Numerodecluster:12 TemaoTopicoPrincipal:Procesos legales y marco jurídico
+Numerodecluster:13 TemaoTopicoPrincipal:Fuentes de información y violencia
+Numerodecluster:14 TemaoTopicoPrincipal:Medidas judiciales de aseguramiento
+Numerodecluster:15 TemaoTopicoPrincipal:Solicitudes y procedimientos legales
+Numerodecluster:16 TemaoTopicoPrincipal:Instrucciones y comunicación en procedimientos
+Numerodecluster:17 TemaoTopicoPrincipal:Estructura y operaciones militares
+Numerodecluster:18 TemaoTopicoPrincipal:Mando, control e inteligencia militar
+Numerodecluster:19 TemaoTopicoPrincipal:Condiciones de libertad y beneficios penales
+Numerodecluster:20 TemaoTopicoPrincipal:Procesos disciplinarios y judiciales
+Numerodecluster:21 TemaoTopicoPrincipal:Secuestros y extorsiones
+Numerodecluster:22 TemaoTopicoPrincipal:Muertes y responsabilidades en el conflicto
+Numerodecluster:23 TemaoTopicoPrincipal:Sentencias y aspectos constitucionales

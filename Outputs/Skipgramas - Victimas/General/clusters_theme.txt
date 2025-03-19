@@ -1,0 +1,20 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Educación y formación militar
+Numerodecluster:2 TemaoTopicoPrincipal:Derechos humanos y formación internacional
+Numerodecluster:3 TemaoTopicoPrincipal:Navegación y orientación en terreno
+Numerodecluster:4 TemaoTopicoPrincipal:Operaciones militares y resultados
+Numerodecluster:5 TemaoTopicoPrincipal:Estructura y jerarquía militar
+Numerodecluster:6 TemaoTopicoPrincipal:Presencia y defensa en zonas de conflicto
+Numerodecluster:7 TemaoTopicoPrincipal:Geografía del conflicto
+Numerodecluster:8 TemaoTopicoPrincipal:Cumplimiento y estructura gubernamental
+Numerodecluster:9 TemaoTopicoPrincipal:Justicia y aportes al proceso de paz
+Numerodecluster:10 TemaoTopicoPrincipal:Renuncias y garantías especiales
+Numerodecluster:11 TemaoTopicoPrincipal:Normatividad y delincuencia común
+Numerodecluster:12 TemaoTopicoPrincipal:Operaciones y reconocimiento de terreno
+Numerodecluster:13 TemaoTopicoPrincipal:Recursos y gestión energética
+Numerodecluster:14 TemaoTopicoPrincipal:Procesos e informes judiciales
+Numerodecluster:15 TemaoTopicoPrincipal:Procedimiento y representación de víctimas
+Numerodecluster:16 TemaoTopicoPrincipal:Compromiso y declaración voluntaria
+Numerodecluster:17 TemaoTopicoPrincipal:Planificación y ejecución de acciones
+Numerodecluster:18 TemaoTopicoPrincipal:Obligaciones legales y procedimentales
+Numerodecluster:19 TemaoTopicoPrincipal:Conflicto armado interno
+Numerodecluster:20 TemaoTopicoPrincipal:Versiones y participación civil en el conflicto

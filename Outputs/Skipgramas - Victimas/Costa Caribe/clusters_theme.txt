@@ -1,0 +1,18 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Presentación de víctimas como bajas en combate
+Numerodecluster:2 TemaoTopicoPrincipal:Relación con autoridades indígenas y su territorio
+Numerodecluster:3 TemaoTopicoPrincipal:Proceso judicial y observaciones de las víctimas
+Numerodecluster:4 TemaoTopicoPrincipal:Impacto psicosocial y análisis científico colectivo
+Numerodecluster:5 TemaoTopicoPrincipal:Justicia y reparación para las víctimas del conflicto
+Numerodecluster:6 TemaoTopicoPrincipal:Testimonios familiares y búsqueda de justicia
+Numerodecluster:7 TemaoTopicoPrincipal:Derechos de las personas y familiares afectados
+Numerodecluster:8 TemaoTopicoPrincipal:Impacto en el entorno familiar de las víctimas
+Numerodecluster:9 TemaoTopicoPrincipal:Búsqueda de verdad y confrontación del dolor
+Numerodecluster:10 TemaoTopicoPrincipal:Visitas y coordinación con comunidades afectadas
+Numerodecluster:11 TemaoTopicoPrincipal:Contexto de operaciones militares y paramilitares
+Numerodecluster:12 TemaoTopicoPrincipal:Marco del conflicto armado y sus consecuencias
+Numerodecluster:13 TemaoTopicoPrincipal:Relatos de eventos y afectación de jóvenes
+Numerodecluster:14 TemaoTopicoPrincipal:Incursiones militares y afectaciones a la vivienda
+Numerodecluster:15 TemaoTopicoPrincipal:Impacto del conflicto en la vida familiar y laboral
+Numerodecluster:16 TemaoTopicoPrincipal:Impacto en la comunidad y perfil de las víctimas
+Numerodecluster:17 TemaoTopicoPrincipal:Asesinatos y perfil de las víctimas individuales
+Numerodecluster:18 TemaoTopicoPrincipal:Vida cotidiana de las víctimas antes del asesinato

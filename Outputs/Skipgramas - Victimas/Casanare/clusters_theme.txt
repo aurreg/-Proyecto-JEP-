@@ -1,0 +1,20 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Procesos y sanciones de la JEP
+Numerodecluster:2 TemaoTopicoPrincipal:Condiciones para el cumplimiento de sanciones de la JEP
+Numerodecluster:3 TemaoTopicoPrincipal:Investigación y análisis de casos en la JEP
+Numerodecluster:4 TemaoTopicoPrincipal:Derechos humanos y normativa internacional
+Numerodecluster:5 TemaoTopicoPrincipal:Testimonios personales
+Numerodecluster:6 TemaoTopicoPrincipal:Marco jurídico y garantías procesales
+Numerodecluster:7 TemaoTopicoPrincipal:Geografía del conflicto y afectación local
+Numerodecluster:8 TemaoTopicoPrincipal:Reparación y responsabilidad en el marco de la JEP
+Numerodecluster:9 TemaoTopicoPrincipal:Formación militar y vida castrense
+Numerodecluster:10 TemaoTopicoPrincipal:Relación de hechos y responsabilidad penal
+Numerodecluster:11 TemaoTopicoPrincipal:Operaciones militares y estructura de mando
+Numerodecluster:12 TemaoTopicoPrincipal:Estructura y jerarquía militar
+Numerodecluster:13 TemaoTopicoPrincipal:Identificación de individuos relacionados con la JEP
+Numerodecluster:14 TemaoTopicoPrincipal:Procedimientos y diligencias de la JEP
+Numerodecluster:15 TemaoTopicoPrincipal:Participación y roles en el conflicto
+Numerodecluster:16 TemaoTopicoPrincipal:Proceso de reconocimiento y contribución a la verdad
+Numerodecluster:17 TemaoTopicoPrincipal:Identificación de individuos relacionados con la JEP
+Numerodecluster:18 TemaoTopicoPrincipal:Caracterización de bajas en el conflicto
+Numerodecluster:19 TemaoTopicoPrincipal:Derechos de las víctimas y justicia transicional
+Numerodecluster:20 TemaoTopicoPrincipal:Normativa y procedimientos legales

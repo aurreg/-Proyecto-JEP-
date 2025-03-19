@@ -1,34 +1,34 @@
 Resumen de pruebas estadísticas (MP vs MN_negativo):
 "Estadística"	"Valor"
-"Media MP"	1.382
-"Media MN"	1.942
-"Mediana MP"	1.392
-"Mediana MN"	1.935
-"Shapiro-Wilk MP P-valor"	0.654
-"Shapiro-Wilk MN P-valor"	0
-"Mann-Whitney W"	4656
+"Media MP"	1.432
+"Media MN"	1.931
+"Mediana MP"	1.433
+"Mediana MN"	1.894
+"Shapiro-Wilk MP P-valor"	0.325
+"Shapiro-Wilk MN P-valor"	0.001
+"Mann-Whitney W"	136
 "Mann-Whitney P-valor"	0
-"Prueba Levene F"	1.808
-"Prueba Levene P-valor"	0.18
-"Prueba t T var.equa"	29.833
+"Prueba Levene F"	0.029
+"Prueba Levene P-valor"	0.866
+"Prueba t T var.equa"	10.597
 "Prueba t P-valor var.equa"	0
-"Prueba t T"	29.833
+"Prueba t T"	10.597
 "Prueba t P-valor"	0
 
 --------------------------
 Resultados de la comparación de proporciones (PP vs PN):
 "Estadística"	"Valor"
-"Media PP"	0.536
-"Media PN"	0.464
-"Mediana PP"	0.535
-"Mediana PN"	0.465
-"Shapiro-Wilk PP P-valor"	0.105
-"Shapiro-Wilk PN P-valor"	0.105
-"Mann-Whitney W"	923
-"Mann-Whitney P-valor"	1
+"Media PP"	0.565
+"Media PN"	0.435
+"Mediana PP"	0.567
+"Mediana PN"	0.433
+"Shapiro-Wilk PP P-valor"	0.204
+"Shapiro-Wilk PN P-valor"	0.204
+"Mann-Whitney W"	17
+"Mann-Whitney P-valor"	0.997
 "Prueba Levene F"	0
 "Prueba Levene P-valor"	1
-"Prueba t T var.equa"	-5.432
-"Prueba t P-valor var.equa"	1
-"Prueba t T"	-5.432
-"Prueba t P-valor"	1
+"Prueba t T var.equa"	-3.158
+"Prueba t P-valor var.equa"	0.997
+"Prueba t T"	-3.158
+"Prueba t P-valor"	0.997

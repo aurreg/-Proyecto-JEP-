@@ -1,0 +1,22 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Oficiales y altos rangos del Ejército Nacional
+Numerodecluster:2 TemaoTopicoPrincipal:Grupos militares y tácticas especiales
+Numerodecluster:3 TemaoTopicoPrincipal:Doctrina y operaciones militares
+Numerodecluster:4 TemaoTopicoPrincipal:Procedimientos y tratamientos jurídicos
+Numerodecluster:5 TemaoTopicoPrincipal:Operaciones y unidades militares especiales
+Numerodecluster:6 TemaoTopicoPrincipal:Sistema de justicia y derechos humanos en el conflicto armado
+Numerodecluster:7 TemaoTopicoPrincipal:Oficiales y comandantes de las fuerzas militares
+Numerodecluster:8 TemaoTopicoPrincipal:Testimonios y recuerdos de los involucrados
+Numerodecluster:9 TemaoTopicoPrincipal:Geografía de operaciones militares y zonas de conflicto
+Numerodecluster:10 TemaoTopicoPrincipal:Estructura y jerarquía militar
+Numerodecluster:11 TemaoTopicoPrincipal:Militares de rango intermedio y movimientos de tropas
+Numerodecluster:12 TemaoTopicoPrincipal:Víctimas civiles y responsabilidad en el conflicto
+Numerodecluster:13 TemaoTopicoPrincipal:Personas asociadas al caso y roles legales
+Numerodecluster:14 TemaoTopicoPrincipal:Control operacional y justicia transicional
+Numerodecluster:15 TemaoTopicoPrincipal:Conocimiento y participación en las operaciones militares
+Numerodecluster:16 TemaoTopicoPrincipal:Soldados y personal subalterno del Ejército
+Numerodecluster:17 TemaoTopicoPrincipal:Papel de las mujeres y defensores en el contexto del conflicto
+Numerodecluster:18 TemaoTopicoPrincipal:Víctimas y afectados dentro de las fuerzas armadas
+Numerodecluster:19 TemaoTopicoPrincipal:Individuos asociados al caso y sus roles
+Numerodecluster:20 TemaoTopicoPrincipal:Documentación e informes de operaciones contra insurgentes
+Numerodecluster:21 TemaoTopicoPrincipal:Militares y su estatus jurídico
+Numerodecluster:22 TemaoTopicoPrincipal:Proceso de paz y seguridad jurídica

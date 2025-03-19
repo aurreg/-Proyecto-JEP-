@@ -1,0 +1,17 @@
+Cluster1: Tema o Tópico Principal: Ejecuciones extrajudiciales y desapariciones forzadas
+Cluster2: Tema o Tópico Principal: Estructura y jerarquía militar
+Cluster3: Tema o Tópico Principal: Reconocimiento de crímenes y coautoría en el conflicto
+Cluster4: Tema o Tópico Principal: Nombres propios de personas involucradas o mencionadas
+Cluster5: Tema o Tópico Principal: Grupos armados y alianzas entre actores del conflicto
+Cluster6: Tema o Tópico Principal: Procedimientos judiciales y reconocimiento de responsabilidades
+Cluster7: Tema o Tópico Principal: Impacto personal y familiar de las víctimas
+Cluster8: Tema o Tópico Principal: Víctimas y comunidades afectadas
+Cluster9: Tema o Tópico Principal: Pueblos indígenas y violencia en territorios ancestrales
+Cluster10: Tema o Tópico Principal: Nombres propios de personas involucradas o mencionadas
+Cluster11: Tema o Tópico Principal: Proceso judicial y participación de las víctimas
+Cluster12: Tema o Tópico Principal: Búsqueda de paz y justicia transicional
+Cluster13: Tema o Tópico Principal: Aspectos de acusación y casos específicos
+Cluster14: Tema o Tópico Principal: Impacto familiar y social de la violencia
+Cluster15: Tema o Tópico Principal: Derechos humanos y sanciones internacionales
+Cluster16: Tema o Tópico Principal: Territorio y afectaciones a comunidades locales
+Cluster17: Tema o Tópico Principal: Contexto social y reconstrucción del tejido social

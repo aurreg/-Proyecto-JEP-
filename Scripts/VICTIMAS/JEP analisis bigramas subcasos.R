@@ -43,19 +43,16 @@ stop_words_es <- tibble(word = unlist(stop_words_es), lexicon = "custom")
 
 
 
-SubCaso_NS <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/NorteSantander_subtitles.csv") #Subtitulos Para Norte de Santander
-SubCaso_NS_filtered <- SubCaso_NS[!grepl("Antioquia", SubCaso_NS$Titulo) & !is.na(SubCaso_NS$Subtitulos), ]
-#SubCaso_CC <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/CostaCaribe_subtitles.csv") #Subtitulos Para Costa Caribe
-#SubCaso_C <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Casanare_subtitles.csv") # Subtitulos para Casanare
-#SubCaso_M <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Meta_subtitles.csv") #Subtitulos Para Meta
-#SubCaso_H <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Huila_subtitles.csv") #Subtitulos Para  Huila
-#SubCaso_A <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Antioquia_subtitles.csv") #Subtitulos Para Antioquia
+SubCaso_CC <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/CostaCaribe_subtitles.csv") #Subtitulos Para Costa Caribe
+SubCaso_C <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Casanare_subtitles.csv") # Subtitulos para Casanare
+SubCaso_M <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Meta_subtitles.csv") #Subtitulos Para Meta
+SubCaso_H <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Huila_subtitles.csv") #Subtitulos Para  Huila
+SubCaso_A <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Data/Antioquia_subtitles.csv") #Subtitulos Para Antioquia
 
 
-SubCaso<-SubCaso_NS_filtered
+SubCaso<-SubCaso_A
 
-Palabra<-'Norte de santander'
-# Norte de santander
+Palabra<-'Antioquia'
 # Costa Caribe
 # Casanare
 # Meta
@@ -77,15 +74,15 @@ subtitulos_JEP_03 <- read_csv("C:/Users/Pc/Desktop/-Proyecto-JEP-/Scraping/subti
 head(SubCaso$Titulo,20)
 
 if (Palabra == 'Norte de santander') {
-  n <- 1
+  n <- 0
 } else if (Palabra == 'Costa Caribe') {
-  n <- 2
+  n <- 1
 } else if (Palabra == 'Casanare') {
-  n <- 20
+  n <-5
 } else if (Palabra == 'Meta') {
   n <- 1
 } else if (Palabra == 'Huila') {
-  n <- 20
+  n <- 10
 } else if (Palabra == 'Antioquia') {
   n <- 2
 }
@@ -111,6 +108,7 @@ if (Palabra == 'Norte de santander') {
 # se crea un dataframe con titulos que puedan tener palabras clave 
 subtitulos_JEP_03<-rbind(subtitulos_JEP_03,SubCaso[,-1])%>%
   as.data.frame()%>%
+  filter(Titulo %in% Todos_Titles)%>%
   mutate(Subtitulos= str_replace_all(Subtitulos, "\\[Música\\]", ""))  %>%
   filter(!is.na(Subtitulos) )
 
@@ -192,7 +190,7 @@ plot(threshold, s,
 grid(nx = NULL, ny = NULL, col = 'gray', lty = 'dotted')
 
 # Adding a horizontal line at y=0 for reference
-abline(v =3, col = 'red', lty = 2)
+abline(v =n, col = 'red', lty = 2)
 
 suppressMessages(suppressWarnings(library(igraph)))
 

@@ -1,0 +1,23 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Legalidad y Comisión de Delitos
+Numerodecluster:2 TemaoTopicoPrincipal:Procesos de Justicia Transicional y Amnistía
+Numerodecluster:3 TemaoTopicoPrincipal:Responsabilidad en Ejecuciones Extrajudiciales
+Numerodecluster:4 TemaoTopicoPrincipal:Condiciones de Proceso Legal
+Numerodecluster:5 TemaoTopicoPrincipal:Investigación Forense y Responsabilidad Penal
+Numerodecluster:6 TemaoTopicoPrincipal:Actores Individuales en el Caso
+Numerodecluster:7 TemaoTopicoPrincipal:Procedimientos y Participación en Audiencias
+Numerodecluster:8 TemaoTopicoPrincipal:Jurisdicción Especial para la Paz y Derechos Humanos
+Numerodecluster:9 TemaoTopicoPrincipal:Intervenciones Judiciales y Procesos Legales
+Numerodecluster:10 TemaoTopicoPrincipal:Comando Militar y Operaciones del Ejército
+Numerodecluster:11 TemaoTopicoPrincipal:Unidades Militares Especiales
+Numerodecluster:12 TemaoTopicoPrincipal:Comunicación de Decisiones Judiciales
+Numerodecluster:13 TemaoTopicoPrincipal:Contribuciones a la Justicia y Beneficios Procesales
+Numerodecluster:14 TemaoTopicoPrincipal:Actores Individuales en Procesos Judiciales
+Numerodecluster:15 TemaoTopicoPrincipal:Información y Evidencia en Procesos Legales
+Numerodecluster:16 TemaoTopicoPrincipal:Procedimientos y Requisitos Procesales
+Numerodecluster:17 TemaoTopicoPrincipal:Derecho Internacional y Crímenes de Guerra
+Numerodecluster:18 TemaoTopicoPrincipal:Localidades y Actores Específicos en el Conflicto
+Numerodecluster:19 TemaoTopicoPrincipal:Medidas de Reparación y Compromisos de No Repetición
+Numerodecluster:20 TemaoTopicoPrincipal:Actores y Víctimas Específicas en el Conflicto
+Numerodecluster:21 TemaoTopicoPrincipal:Estructura Militar y Participación de Campesinos
+Numerodecluster:22 TemaoTopicoPrincipal:Frentes Guerrilleros y Conflicto Armado
+Numerodecluster:23 TemaoTopicoPrincipal:Operaciones Militares y Derechos Humanos

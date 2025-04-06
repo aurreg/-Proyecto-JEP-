@@ -1,0 +1,21 @@
+1: Tema o Tópico Principal: Actores individuales involucrados en las operaciones tácticas
+2: Tema o Tópico Principal: Estructura y organización militar
+3: Tema o Tópico Principal: Jerarquía militar y personal en servicio
+4: Tema o Tópico Principal: Naturaleza y consecuencias del conflicto armado
+5: Tema o Tópico Principal: Oficiales de alto rango y bajas en combate
+6: Tema o Tópico Principal: Testimonios y procesos de memoria
+7: Tema o Tópico Principal: Procedimientos y protocolos de la JEP
+8: Tema o Tópico Principal: Identificación de personal militar de rango medio
+9: Tema o Tópico Principal: Rangos inferiores y personas individuales en el ejército
+10: Tema o Tópico Principal: Derechos de las víctimas y procesos de justicia
+11: Tema o Tópico Principal: Secciones de inteligencia militar
+12: Tema o Tópico Principal: Interacción con la sociedad civil y medios de comunicación
+13: Tema o Tópico Principal: Seguridad y jurisdicción operacional
+14: Tema o Tópico Principal: Educación militar y gobierno
+15: Tema o Tópico Principal: Información y operaciones militares
+16: Tema o Tópico Principal: Ubicaciones geográficas relevantes para las operaciones
+17: Tema o Tópico Principal: Reuniones y coordinación entre oficiales
+18: Tema o Tópico Principal: Vida y carrera militar
+19: Tema o Tópico Principal: Procedimientos legales y administrativos
+20: Tema o Tópico Principal: Procesos de paz y jurisdicción
+21: Tema o Tópico Principal: Información personal y rol en combate

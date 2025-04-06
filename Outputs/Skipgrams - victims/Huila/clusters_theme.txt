@@ -1,0 +1,21 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Operaciones y resultados militares
+Numerodecluster:2 TemaoTopicoPrincipal:Tácticas de combate
+Numerodecluster:3 TemaoTopicoPrincipal:Estructura de mando y control en operaciones militares
+Numerodecluster:4 TemaoTopicoPrincipal:Justicia, reparación y derechos de las víctimas
+Numerodecluster:5 TemaoTopicoPrincipal:Proceso de investigación y responsabilidad legal
+Numerodecluster:6 TemaoTopicoPrincipal:Incidentes específicos en el Huila
+Numerodecluster:7 TemaoTopicoPrincipal:Impacto del conflicto armado en la población civil
+Numerodecluster:8 TemaoTopicoPrincipal:Procedimientos legales
+Numerodecluster:9 TemaoTopicoPrincipal:Procedimientos y eventos relacionados con el caso
+Numerodecluster:10 TemaoTopicoPrincipal:Decisiones gubernamentales
+Numerodecluster:11 TemaoTopicoPrincipal:Personas involucradas en el caso
+Numerodecluster:12 TemaoTopicoPrincipal:Presencia de grupos armados y marco legal
+Numerodecluster:13 TemaoTopicoPrincipal:Inteligencia y operaciones de infantería
+Numerodecluster:14 TemaoTopicoPrincipal:Condiciones y requisitos legales
+Numerodecluster:15 TemaoTopicoPrincipal:Documentación y registro militar
+Numerodecluster:16 TemaoTopicoPrincipal:Personas específicas relacionadas con el caso
+Numerodecluster:17 TemaoTopicoPrincipal:Estructura y funcionamiento de batallones
+Numerodecluster:18 TemaoTopicoPrincipal:Análisis de información y reconocimiento de conductas
+Numerodecluster:19 TemaoTopicoPrincipal:Formación y educación militar profesional
+Numerodecluster:20 TemaoTopicoPrincipal:Identificación de responsables y comisión de crímenes
+Numerodecluster:21 TemaoTopicoPrincipal:Participación y desarrollo de personal militar

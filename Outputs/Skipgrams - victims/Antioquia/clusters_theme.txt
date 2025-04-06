@@ -1,0 +1,22 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Impacto en la vida cotidiana y familiar de las víctimas
+Numerodecluster:2 TemaoTopicoPrincipal:Víctimas y patrones de asesinatos y desapariciones
+Numerodecluster:3 TemaoTopicoPrincipal:Nombres propios y posibles víctimas o involucrados
+Numerodecluster:4 TemaoTopicoPrincipal:Derechos humanos y organismos de defensa
+Numerodecluster:5 TemaoTopicoPrincipal:Reparación y restablecimiento social
+Numerodecluster:6 TemaoTopicoPrincipal:Sistema de justicia transicional
+Numerodecluster:7 TemaoTopicoPrincipal:Contexto militar y hallazgo de cuerpos
+Numerodecluster:8 TemaoTopicoPrincipal:Procedimientos y mecanismos de justicia
+Numerodecluster:9 TemaoTopicoPrincipal:Detalles específicos o técnicos (posiblemente relacionados con las audiencias)
+Numerodecluster:10 TemaoTopicoPrincipal:Profundidad en la investigación o análisis
+Numerodecluster:11 TemaoTopicoPrincipal:Elementos simbólicos o descriptivos (posiblemente relacionados con la violencia)
+Numerodecluster:12 TemaoTopicoPrincipal:Conflicto armado interno y violencia
+Numerodecluster:13 TemaoTopicoPrincipal:Actores jurídicos y representantes legales
+Numerodecluster:14 TemaoTopicoPrincipal:Estructura y crímenes militares
+Numerodecluster:15 TemaoTopicoPrincipal:Grupos armados y operativos militares
+Numerodecluster:16 TemaoTopicoPrincipal:Relatos de acciones violentas y víctimas
+Numerodecluster:17 TemaoTopicoPrincipal:Procedimiento y desarrollo de las audiencias
+Numerodecluster:18 TemaoTopicoPrincipal:Educación y entornos urbanos
+Numerodecluster:19 TemaoTopicoPrincipal:Justicia, víctimas y proceso de la JEP
+Numerodecluster:20 TemaoTopicoPrincipal:Casos específicos y regionalización del conflicto
+Numerodecluster:21 TemaoTopicoPrincipal:Sentimientos y justicia restaurativa
+Numerodecluster:22 TemaoTopicoPrincipal:Localidades y crímenes específicos

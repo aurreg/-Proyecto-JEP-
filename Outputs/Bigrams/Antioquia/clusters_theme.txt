@@ -1,0 +1,25 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Víctimas y representación en la JEP
+Numerodecluster:2 TemaoTopicoPrincipal:Crímenes de lesa humanidad y responsabilidad
+Numerodecluster:3 TemaoTopicoPrincipal:Conflicto armado y dinámica de violencia
+Numerodecluster:4 TemaoTopicoPrincipal:Patrones de macrocriminalidad y sistemática
+Numerodecluster:5 TemaoTopicoPrincipal:Procedimientos y participación en audiencias
+Numerodecluster:6 TemaoTopicoPrincipal:Nombres propios y personalidades involucradas
+Numerodecluster:7 TemaoTopicoPrincipal:Esperanza y búsqueda de la verdad
+Numerodecluster:8 TemaoTopicoPrincipal:Impacto social y comunitario
+Numerodecluster:9 TemaoTopicoPrincipal:Procesos de paz y justicia restaurativa
+Numerodecluster:10 TemaoTopicoPrincipal:Petición de perdón y reconocimiento de responsabilidad
+Numerodecluster:11 TemaoTopicoPrincipal:Agradecimientos y cierre de intervenciones
+Numerodecluster:12 TemaoTopicoPrincipal:Nombres propios y personalidades secundarias
+Numerodecluster:13 TemaoTopicoPrincipal:Rol del ejército y agentes estatales en el conflicto
+Numerodecluster:14 TemaoTopicoPrincipal:Solidaridad y reconocimientos institucionales
+Numerodecluster:15 TemaoTopicoPrincipal:Vulnerabilidad de las víctimas y afectados
+Numerodecluster:16 TemaoTopicoPrincipal:Falsos positivos y asesinatos extrajudiciales
+Numerodecluster:17 TemaoTopicoPrincipal:Proceso legal y marco jurídico
+Numerodecluster:18 TemaoTopicoPrincipal:Búsqueda de justicia y reparación
+Numerodecluster:19 TemaoTopicoPrincipal:Impacto personal y familiar de la violencia
+Numerodecluster:20 TemaoTopicoPrincipal:Reflexiones y mensajes finales
+Numerodecluster:21 TemaoTopicoPrincipal:Presencia y reconocimiento de asistentes
+Numerodecluster:22 TemaoTopicoPrincipal:Impacto en la salud y comunidad
+Numerodecluster:23 TemaoTopicoPrincipal:Menores de edad y reclutamiento
+Numerodecluster:24 TemaoTopicoPrincipal:Dolor y daño causado por el conflicto
+Numerodecluster:25 TemaoTopicoPrincipal:Estructura militar y operaciones en Antioquia

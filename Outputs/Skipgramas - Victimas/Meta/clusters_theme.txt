@@ -1,8 +1,0 @@
-Cluster1: [cluster 1] TemaoTopicoPrincipal: [Violencia y asesinatos]
-Cluster2: [cluster 2] TemaoTopicoPrincipal: [Esperanza y memoria]
-Cluster3: [cluster 3] TemaoTopicoPrincipal: [Justicia y responsabilidad]
-Cluster4: [cluster 4] TemaoTopicoPrincipal: [Fuerzas militares y conflicto]
-Cluster5: [cluster 5] TemaoTopicoPrincipal: [Deseo de paz y reparación]
-Cluster6: [cluster 6] TemaoTopicoPrincipal: [Reconstrucción y resiliencia]
-Cluster7: [cluster 7] TemaoTopicoPrincipal: [Desplazamiento forzado]
-Cluster8: [cluster 8] TemaoTopicoPrincipal: [Duelo y llamado a la acción]

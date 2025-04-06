@@ -1,9 +1,0 @@
-1:Querían Tema o Tópico Principal:Ejecuciones extrajudiciales en Ocaña
-2:Responsables Tema o Tópico Principal:Responsabilidad en ejecuciones y justicia restaurativa
-3:Hará Tema o Tópico Principal:Consecuencias de los combates y presentación de víctimas como bajas en combate
-4:Macrocasos Tema o Tópico Principal:Responsabilidad institucional en asesinatos y desapariciones forzadas
-5:Historia Tema o Tópico Principal:Proceso de justicia y reconocimiento de la verdad
-6:Imputó Tema o Tópico Principal:Imputaciones de crímenes de guerra y de lesa humanidad
-7:JEP Tema o Tópico Principal:Reconocimiento de crímenes y actuación de la JEP
-8:Víctimas Tema o Tópico Principal:Víctimas de falsos positivos y patrón sistemático
-9:Demandas Tema o Tópico Principal:Demandas civiles y rol de agentes del Estado

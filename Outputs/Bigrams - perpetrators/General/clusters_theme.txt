@@ -1,0 +1,23 @@
+1: Ejecuciones extrajudiciales y reporte de bajas en combate
+2: Operaciones y unidades militares
+3: Geografía y nombres propios en el contexto del conflicto
+4: Posible referencia a grupos armados o enfrentamientos
+5: Alias y nombres de personas relacionadas con el caso
+6: Recuerdos y conocimientos personales de los involucrados
+7: Documentación, informes e inteligencia
+8: Estructura y organización militar
+9: Vestimenta y milicias urbanas
+10: Armamento y material de guerra
+11: Organizaciones y procesos de legalización
+12: Proceso judicial y seguridad militar
+13: Procesos legales y beneficios judiciales
+14: Estrategia militar y campañas operativas
+15: Procedimiento judicial y reconocimiento de víctimas
+16: Jerarquías y personal militar
+17: Movimientos y operaciones en terreno
+18: Comunicación y puntos críticos
+19: Objetivos y principios operativos militares
+20: Memoria y referencias históricas
+21: Ubicaciones geográficas y entidades territoriales
+22: Organismos y operaciones en áreas rurales
+23: Edad y estados operativos de personal militar

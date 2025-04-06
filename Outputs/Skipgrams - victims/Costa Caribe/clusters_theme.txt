@@ -1,0 +1,7 @@
+1: Tema o Tópico Principal: Actuaciones militares y efectos en la población civil
+2: Tema o Tópico Principal: Procedimientos judiciales de la JEP
+3: Tema o Tópico Principal: Víctimas y justicia en casos de ejecuciones extrajudiciales
+4: Tema o Tópico Principal: Impacto comunitario y respuesta de autoridades locales
+5: Tema o Tópico Principal: Procesos de rendición de cuentas y testimonios ante la JEP
+6: Tema o Tópico Principal: Investigación y esclarecimiento de hechos en el proceso judicial
+7: Tema o Tópico Principal: Impacto en las familias y acciones de la Comisión de la Verdad

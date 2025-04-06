@@ -1,0 +1,23 @@
+1: TemaoTopicoPrincipal: Procedimientos y protocolos militares en investigaciones judiciales
+2: TemaoTopicoPrincipal: Incentivos y recompensas en el contexto militar
+3: TemaoTopicoPrincipal: Formación y servicios en el contexto de seguridad y defensa
+4: TemaoTopicoPrincipal: Víctimas y procesos de justicia y reparación
+5: TemaoTopicoPrincipal: Funciones y expectativas personales en el servicio militar
+6: TemaoTopicoPrincipal: Informes y reconocimiento de responsabilidades en operaciones militares
+7: TemaoTopicoPrincipal: Estructura y organización de operaciones militares
+8: TemaoTopicoPrincipal: Resultados de operaciones militares y prácticas controvertidas
+9: TemaoTopicoPrincipal: Logística y moral en operaciones militares
+10: TemaoTopicoPrincipal: Aclaraciones y énfasis en testimonios o declaraciones
+11: TemaoTopicoPrincipal: Movimientos y ascensos de carrera en el servicio militar
+12: TemaoTopicoPrincipal: Documentación legal y sentencias en contextos judiciales
+13: TemaoTopicoPrincipal: Derechos humanos y principios éticos en operaciones militares
+14: TemaoTopicoPrincipal: Identificación de personal militar y roles específicos
+15: TemaoTopicoPrincipal: Condiciones y consecuencias legales en el servicio militar
+16: TemaoTopicoPrincipal: Identificación personal y jurídica en contextos militares y de seguridad
+17: TemaoTopicoPrincipal: Comunicación y toma de decisiones en el marco del conflicto armado
+18: TemaoTopicoPrincipal: Geografía operacional y unidades especializadas en el conflicto
+19: TemaoTopicoPrincipal: Relaciones personales y grado de involucramiento en los hechos
+20: TemaoTopicoPrincipal: Presencia y regulación de grupos armados y ley aplicable
+21: TemaoTopicoPrincipal: Programación y realización de diligencias judiciales
+22: TemaoTopicoPrincipal: Inteligencia, operaciones y reconocimiento de actores y hechos
+23: TemaoTopicoPrincipal: Órdenes militares y cumplimiento de misiones

@@ -1,2 +1,0 @@
-"Best_Method","Modularity_Value","Unique_Memberships"
-"Infomap",0.511363636363636,7

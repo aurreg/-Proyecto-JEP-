@@ -1,0 +1,20 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Educación y entrenamiento militar
+Numerodecluster:2 TemaoTopicoPrincipal:Derechos humanos y formación ética
+Numerodecluster:3 TemaoTopicoPrincipal:Reconocimiento y navegación en terreno
+Numerodecluster:4 TemaoTopicoPrincipal:Operaciones militares y consecuencias
+Numerodecluster:5 TemaoTopicoPrincipal:Estructura y jerarquía militar
+Numerodecluster:6 TemaoTopicoPrincipal:Presencia y defensa en zonas de conflicto
+Numerodecluster:7 TemaoTopicoPrincipal:Geografía del conflicto
+Numerodecluster:8 TemaoTopicoPrincipal:Política gubernamental y cumplimiento de órdenes
+Numerodecluster:9 TemaoTopicoPrincipal:Justicia, paz y derechos en el marco del proceso legal
+Numerodecluster:10 TemaoTopicoPrincipal:Condiciones de servicio y renuncias
+Numerodecluster:11 TemaoTopicoPrincipal:Normatividad y contexto criminal
+Numerodecluster:12 TemaoTopicoPrincipal:Operaciones y estrategia militar en terreno
+Numerodecluster:13 TemaoTopicoPrincipal:Gestión y logística operacional
+Numerodecluster:14 TemaoTopicoPrincipal:Proceso judicial y responsabilidad en el conflicto
+Numerodecluster:15 TemaoTopicoPrincipal:Procedimientos legales y protección de víctimas
+Numerodecluster:16 TemaoTopicoPrincipal:Declaraciones y compromiso con la verdad
+Numerodecluster:17 TemaoTopicoPrincipal:Planificación y ética en la ejecución de operaciones
+Numerodecluster:18 TemaoTopicoPrincipal:Obligaciones legales y procedimientos jurídicos
+Numerodecluster:19 TemaoTopicoPrincipal:Conflicto armado y negación de responsabilidades
+Numerodecluster:20 TemaoTopicoPrincipal:Colaboración con la justicia y reconocimiento de hechos

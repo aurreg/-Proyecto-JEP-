@@ -1,0 +1,23 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Personajes y localidades relacionadas con el caso
+Numerodecluster:2 TemaoTopicoPrincipal:Familiares de víctimas y sus emociones
+Numerodecluster:3 TemaoTopicoPrincipal:Interacciones cotidianas y objetos en contexto militar
+Numerodecluster:4 TemaoTopicoPrincipal:Perfiles de posibles víctimas o personas asociadas
+Numerodecluster:5 TemaoTopicoPrincipal:Organismos de derechos humanos y apoyo internacional
+Numerodecluster:6 TemaoTopicoPrincipal:Reconocimiento de responsabilidad y crímenes cometidos
+Numerodecluster:7 TemaoTopicoPrincipal:Estructura y miembros del Ejército Nacional
+Numerodecluster:8 TemaoTopicoPrincipal:Personas posiblemente relacionadas con los hechos
+Numerodecluster:9 TemaoTopicoPrincipal:Estructura y modalidad de crimen organizado
+Numerodecluster:10 TemaoTopicoPrincipal:Expresiones de respeto y nombres propios
+Numerodecluster:11 TemaoTopicoPrincipal:Nombres propios posiblemente relacionados con el caso
+Numerodecluster:12 TemaoTopicoPrincipal:Órdenes y acciones militares
+Numerodecluster:13 TemaoTopicoPrincipal:Sentimientos y peticiones de familiares de las víctimas
+Numerodecluster:14 TemaoTopicoPrincipal:Vida cotidiana y consecuencias de falsos positivos
+Numerodecluster:15 TemaoTopicoPrincipal:Militares y rangos asociados con el caso
+Numerodecluster:16 TemaoTopicoPrincipal:Presiones operacionales y falsos positivos
+Numerodecluster:17 TemaoTopicoPrincipal:Sistema judicial y marco legal de justicia transicional
+Numerodecluster:18 TemaoTopicoPrincipal:Víctimas civiles y contexto del conflicto
+Numerodecluster:19 TemaoTopicoPrincipal:Rangos militares y comando
+Numerodecluster:20 TemaoTopicoPrincipal:Proceso judicial y papel de las víctimas en la JEP
+Numerodecluster:21 TemaoTopicoPrincipal:Instituciones y grupos armados involucrados
+Numerodecluster:22 TemaoTopicoPrincipal:Experiencias personales y nocturnas relacionadas con el caso
+Numerodecluster:23 TemaoTopicoPrincipal:Nombres propios y rangos militares posiblemente involucrados

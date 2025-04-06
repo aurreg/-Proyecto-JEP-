@@ -1,0 +1,19 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Estructura y operaciones militares
+Numerodecluster:2 TemaoTopicoPrincipal:Informes y declaraciones de presencia militar
+Numerodecluster:3 TemaoTopicoPrincipal:Testimonios y recuerdos de operaciones militares
+Numerodecluster:4 TemaoTopicoPrincipal:Documentación y procedimientos militares
+Numerodecluster:5 TemaoTopicoPrincipal:Comando y traslados en operaciones militares
+Numerodecluster:6 TemaoTopicoPrincipal:Condiciones y sanciones en operaciones militares
+Numerodecluster:7 TemaoTopicoPrincipal:Personajes relevantes en el contexto militar
+Numerodecluster:8 TemaoTopicoPrincipal:Zonas de operaciones y conflicto
+Numerodecluster:9 TemaoTopicoPrincipal:Responsabilidad y dinámica de seguridad
+Numerodecluster:10 TemaoTopicoPrincipal:Procedimientos y reconocimientos judiciales
+Numerodecluster:11 TemaoTopicoPrincipal:Enfoque territorial y búsqueda de armonización
+Numerodecluster:12 TemaoTopicoPrincipal:Funciones judiciales y de intervención
+Numerodecluster:13 TemaoTopicoPrincipal:Proceso judicial y formación militar
+Numerodecluster:14 TemaoTopicoPrincipal:Operaciones y comunicaciones de batallones
+Numerodecluster:15 TemaoTopicoPrincipal:Iniciativas políticas y solidaridad
+Numerodecluster:16 TemaoTopicoPrincipal:Estructura de dirección en operaciones militares
+Numerodecluster:17 TemaoTopicoPrincipal:Marco legal y procedimientos especiales
+Numerodecluster:18 TemaoTopicoPrincipal:Equidad en el marco del proceso judicial
+Numerodecluster:19 TemaoTopicoPrincipal:Armamento y material de intendencia

@@ -1,0 +1,23 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Logística y adquisición de armamento
+Numerodecluster:2 TemaoTopicoPrincipal:Análisis operacional y asesoramiento jurídico
+Numerodecluster:3 TemaoTopicoPrincipal:Operaciones y actividades de batallones
+Numerodecluster:4 TemaoTopicoPrincipal:Responsabilidades y procedimientos militares
+Numerodecluster:5 TemaoTopicoPrincipal:Decisiones y acciones en el conflicto armado
+Numerodecluster:6 TemaoTopicoPrincipal:Acciones armadas y enfrentamientos
+Numerodecluster:7 TemaoTopicoPrincipal:Memoria y conocimiento de eventos
+Numerodecluster:8 TemaoTopicoPrincipal:Política de recompensas y conducta ética
+Numerodecluster:9 TemaoTopicoPrincipal:Experiencias y roles personales
+Numerodecluster:10 TemaoTopicoPrincipal:Formación y estructura de las fuerzas militares
+Numerodecluster:11 TemaoTopicoPrincipal:Procesos judiciales y carrera militar
+Numerodecluster:12 TemaoTopicoPrincipal:Misiones y objetivos tácticos
+Numerodecluster:13 TemaoTopicoPrincipal:Procedimientos legales y documentación
+Numerodecluster:14 TemaoTopicoPrincipal:Estrategias de movilidad militar
+Numerodecluster:15 TemaoTopicoPrincipal:Jerarquía militar y órdenes de comando
+Numerodecluster:16 TemaoTopicoPrincipal:Procedimientos y eventos judiciales
+Numerodecluster:17 TemaoTopicoPrincipal:Derechos de las víctimas y procesos de reparación
+Numerodecluster:18 TemaoTopicoPrincipal:Guías y orientación en el terreno
+Numerodecluster:19 TemaoTopicoPrincipal:Resultados operacionales y muertes en combate
+Numerodecluster:20 TemaoTopicoPrincipal:Estructura y roles especiales en grupos militares
+Numerodecluster:21 TemaoTopicoPrincipal:Comando y operaciones militares
+Numerodecluster:22 TemaoTopicoPrincipal:Geografía y unidades regionales de seguridad
+Numerodecluster:23 TemaoTopicoPrincipal:Normativas y procedimientos en operaciones conjuntas

@@ -1,2 +1,0 @@
-"Best_Method","Modularity_Value","Unique_Memberships"
-"Edge_Betweenness",0.659863945578231,8

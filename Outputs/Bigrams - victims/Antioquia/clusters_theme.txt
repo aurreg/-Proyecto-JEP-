@@ -1,0 +1,25 @@
+Cluster1: TemaoTopicoPrincipal: Efectos y asistencia a víctimas
+Cluster2: TemaoTopicoPrincipal: Personas mencionadas en los casos
+Cluster3: TemaoTopicoPrincipal: Unidades y zonas militares
+Cluster4: TemaoTopicoPrincipal: Nombres propios y personajes específicos
+Cluster5: TemaoTopicoPrincipal: Geografía y ríos relacionados con los casos
+Cluster6: TemaoTopicoPrincipal: Justicia y crímenes de lesa humanidad
+Cluster7: TemaoTopicoPrincipal: Detalles específicos de los crímenes
+Cluster8: TemaoTopicoPrincipal: Nombres propios y personajes específicos
+Cluster9: TemaoTopicoPrincipal: Proceso judicial y reconocimiento de víctimas
+Cluster10: TemaoTopicoPrincipal: Búsqueda y memoria de las víctimas
+Cluster11: TemaoTopicoPrincipal: Justicia transicional y reparación a víctimas
+Cluster12: TemaoTopicoPrincipal: Procesos judiciales y testimonios
+Cluster13: TemaoTopicoPrincipal: Víctimas y actores del conflicto
+Cluster14: TemaoTopicoPrincipal: Procesos judiciales y lugares de memoria
+Cluster15: TemaoTopicoPrincipal: Dinámicas del conflicto armado
+Cluster16: TemaoTopicoPrincipal: Conclusiones y resúmenes de relatos
+Cluster17: TemaoTopicoPrincipal: Actores y estructuras militares
+Cluster18: TemaoTopicoPrincipal: Derechos humanos y defensa
+Cluster19: TemaoTopicoPrincipal: Impacto social y memoria colectiva
+Cluster20: TemaoTopicoPrincipal: Verdad y reconocimiento de responsabilidad
+Cluster21: TemaoTopicoPrincipal: Falsos positivos y victimización
+Cluster22: TemaoTopicoPrincipal: Impacto en las familias y duelo
+Cluster23: TemaoTopicoPrincipal: Valor y enfrentamiento de las víctimas
+Cluster24: TemaoTopicoPrincipal: Acusaciones y testimonios de víctimas
+Cluster25: TemaoTopicoPrincipal: Aspectos legales y procesales del conflicto

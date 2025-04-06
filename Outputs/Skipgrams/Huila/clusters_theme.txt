@@ -1,0 +1,21 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Personajes implicados en el caso
+Numerodecluster:2 TemaoTopicoPrincipal:Procedimientos y diligencias judiciales
+Numerodecluster:3 TemaoTopicoPrincipal:Ubicaciones geográficas relevantes
+Numerodecluster:4 TemaoTopicoPrincipal:Relaciones civiles y militares
+Numerodecluster:5 TemaoTopicoPrincipal:Personajes implicados en el caso
+Numerodecluster:6 TemaoTopicoPrincipal:Proceso de escucha y atención
+Numerodecluster:7 TemaoTopicoPrincipal:Aspectos administrativos y documentación
+Numerodecluster:8 TemaoTopicoPrincipal:Percepciones y cambios de opinión
+Numerodecluster:9 TemaoTopicoPrincipal:Estructura y dinámicas militares
+Numerodecluster:10 TemaoTopicoPrincipal:Personajes implicados en el caso
+Numerodecluster:11 TemaoTopicoPrincipal:Víctimas y testigos
+Numerodecluster:12 TemaoTopicoPrincipal:Armas y elementos asociados al conflicto
+Numerodecluster:13 TemaoTopicoPrincipal:Estructuras y grupos armados
+Numerodecluster:14 TemaoTopicoPrincipal:Estructura de mando y operaciones militares
+Numerodecluster:15 TemaoTopicoPrincipal:Aspectos legales y jurídicos
+Numerodecluster:16 TemaoTopicoPrincipal:Procesos y formación militar
+Numerodecluster:17 TemaoTopicoPrincipal:Ubicaciones geográficas relevantes
+Numerodecluster:18 TemaoTopicoPrincipal:Responsabilidad y reconocimiento de actos
+Numerodecluster:19 TemaoTopicoPrincipal:Decisiones y sentencias judiciales
+Numerodecluster:20 TemaoTopicoPrincipal:Operativos y resultados militares
+Numerodecluster:21 TemaoTopicoPrincipal:Inteligencia y operaciones contra grupos armados

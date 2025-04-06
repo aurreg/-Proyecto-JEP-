@@ -1,0 +1,28 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Estructura y operaciones militares
+Numerodecluster:2 TemaoTopicoPrincipal:Altos mandos y personalidades involucradas
+Numerodecluster:3 TemaoTopicoPrincipal:Procedimientos y diligencias jurídicas
+Numerodecluster:4 TemaoTopicoPrincipal:Marco jurídico y procesal
+Numerodecluster:5 TemaoTopicoPrincipal:Víctimas y responsabilidad en ejecuciones
+Numerodecluster:6 TemaoTopicoPrincipal:Derechos humanos y garantías legales
+Numerodecluster:7 TemaoTopicoPrincipal:Geografía del conflicto y áreas de influencia
+Numerodecluster:8 TemaoTopicoPrincipal:Personal militar de bajo rango
+Numerodecluster:9 TemaoTopicoPrincipal:Participación de víctimas en el proceso judicial
+Numerodecluster:10 TemaoTopicoPrincipal:Relatos personales y testimonios
+Numerodecluster:11 TemaoTopicoPrincipal:Rangos militares y nombres propios
+Numerodecluster:12 TemaoTopicoPrincipal:Organización judicial y administrativa
+Numerodecluster:13 TemaoTopicoPrincipal:Nombres propios relacionados con la defensa
+Numerodecluster:14 TemaoTopicoPrincipal:Funciones y procesos militares y policiales
+Numerodecluster:15 TemaoTopicoPrincipal:Contribución al esclarecimiento y reconocimiento
+Numerodecluster:16 TemaoTopicoPrincipal:Gestión de información y recompensas
+Numerodecluster:17 TemaoTopicoPrincipal:Estructura administrativa y servicios de apoyo
+Numerodecluster:18 TemaoTopicoPrincipal:Aspectos legales de condenas y beneficios
+Numerodecluster:19 TemaoTopicoPrincipal:Falsos positivos y llamados a la atención
+Numerodecluster:20 TemaoTopicoPrincipal:Involucramiento de menores de edad
+Numerodecluster:21 TemaoTopicoPrincipal:Disculpas y perdón
+Numerodecluster:22 TemaoTopicoPrincipal:Delitos de ejecución y encubrimiento
+Numerodecluster:23 TemaoTopicoPrincipal:Saludos protocolarios
+Numerodecluster:24 TemaoTopicoPrincipal:Metáforas de tareas o misiones
+Numerodecluster:25 TemaoTopicoPrincipal:Reacciones y cambios de residencia
+Numerodecluster:26 TemaoTopicoPrincipal:Denegación de falsos positivos
+Numerodecluster:27 TemaoTopicoPrincipal:Identificación de miembros de grupos
+Numerodecluster:28 TemaoTopicoPrincipal:Voluntad de acogerse a procesos de paz

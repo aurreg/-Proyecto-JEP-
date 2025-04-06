@@ -1,0 +1,25 @@
+1: TemaoTopicoPrincipal: Impacto y consecuencias de los crímenes
+2: TemaoTopicoPrincipal: Estructura y funcionamiento del Ejército
+3: TemaoTopicoPrincipal: Perfiles y relatos de las víctimas
+4: TemaoTopicoPrincipal: Experiencias y recuerdos de las ejecuciones
+5: TemaoTopicoPrincipal: Dolor y llamados a la justicia por parte de familiares
+6: TemaoTopicoPrincipal: Procesos judiciales y figuras involucradas
+7: TemaoTopicoPrincipal: Dinámicas y consecuencias de los asesinatos
+8: TemaoTopicoPrincipal: Impacto social y comunitario de los crímenes
+9: TemaoTopicoPrincipal: Proceso de reconocimiento y memoria histórica
+10: TemaoTopicoPrincipal: Llamados al perdón y reconocimiento de responsabilidad
+11: TemaoTopicoPrincipal: Procesos y actores en la justicia transicional
+12: TemaoTopicoPrincipal: Carga y esfuerzo físico asociados a las víctimas
+13: TemaoTopicoPrincipal: Relatos de sobrevivientes y testigos
+14: TemaoTopicoPrincipal: Reflexiones sobre la justicia y la reconstrucción moral
+15: TemaoTopicoPrincipal: Dinámicas del conflicto y sus efectos en la comunidad
+16: TemaoTopicoPrincipal: Búsqueda de verdad y esclarecimiento de los hechos
+17: TemaoTopicoPrincipal: Impacto en las fuerzas armadas y sus prácticas
+18: TemaoTopicoPrincipal: Rol de la JEP y procesos de justicia por crímenes de Estado
+19: TemaoTopicoPrincipal: Arrepentimiento y reconocimiento de culpa
+20: TemaoTopicoPrincipal: Compromisos y responsabilidades del Gobierno
+21: TemaoTopicoPrincipal: Dinámicas internas del Ejército y el servicio militar
+22: TemaoTopicoPrincipal: Sentimientos y consecuencias emocionales del conflicto
+23: TemaoTopicoPrincipal: Contexto social y económico de las víctimas
+24: TemaoTopicoPrincipal: Narrativas personales y efectos de los crímenes
+25: TemaoTopicoPrincipal: Consecuencias y legado de los actos criminales

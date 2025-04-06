@@ -1,0 +1,8 @@
+"V1","V2"
+"Dist. media","3.3542"
+"Grado media","10.1983"
+"Grado desviación","31.5216"
+"Número clan","37"
+"Densidad","0.0052"
+"Transitividad","0.2149"
+"Asortatividad","-0.2655"

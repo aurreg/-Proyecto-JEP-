@@ -1,0 +1,24 @@
+1:Información y operaciones de inteligencia
+2:Geografía y demografía de operaciones
+3:Finanzas y logística militar
+4:Inteligencia y fuentes civiles
+5:Estructura judicial y operaciones urbanas
+6:Comando y control en operaciones militares
+7:Comunicaciones y movimientos de tropas
+8:Procesos legales y entrenamiento militar
+9:Logística y tácticas de desplazamiento
+10:Violencia y armamento
+11:Rangos y personal militar
+12:Derechos territoriales y etnoculturales
+13:Operaciones militares y falsos positivos
+14:Legalidad y competencia de fuerzas militares
+15:Experiencia y recuerdos de militares
+16:Involucramiento de menores en operaciones
+17:Relaciones personales y compromisos militares
+18:Privación de libertad y acciones delictivas
+19:Investigaciones y responsabilidades legales
+20:Presión psicológica y agotamiento
+21:Temporalidad y eventos específicos
+22:Planificación y logística de armamento
+23:Interrogatorio y participación en el conflicto
+24:Atención humanitaria y desmovilización

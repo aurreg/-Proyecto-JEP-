@@ -1,9 +1,0 @@
-Cluster1:Justicia transicional y procesos judiciales en Colombia
-Cluster2:Víctimas y participación en la justicia transicional
-Cluster3:Víctimas de ejecuciones extrajudiciales y desapariciones
-Cluster4:Instituciones nacionales y actores del conflicto armado
-Cluster5:Vulnerabilidad y victimización en el conflicto armado
-Cluster6:Saludos y aspectos psicosociales en procesos de justicia transicional
-Cluster7:Proceso de identificación y acercamiento a las víctimas
-Cluster8:Comunicación y reconocimiento a las víctimas
-Cluster9:Expresiones de cortesía y reconocimiento en el marco de la justicia transicional

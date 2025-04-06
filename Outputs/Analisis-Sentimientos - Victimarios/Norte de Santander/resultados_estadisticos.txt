@@ -1,4 +1,0 @@
-Resumen de pruebas estadísticas (MP vs MN_negativo):
-
---------------------------
-Resultados de la comparación de proporciones (PP vs PN):

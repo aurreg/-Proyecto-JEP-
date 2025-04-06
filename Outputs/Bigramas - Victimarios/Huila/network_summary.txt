@@ -1,2 +1,0 @@
-"Num_Nodes","Num_Edges","N_Value"
-1713,2742,10

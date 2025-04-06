@@ -1,0 +1,22 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Comunicaciones y procesos internos
+Numerodecluster:2 TemaoTopicoPrincipal:Documentación y procedimientos militares
+Numerodecluster:3 TemaoTopicoPrincipal:Comunicación y operaciones militares
+Numerodecluster:4 TemaoTopicoPrincipal:Ubicaciones geográficas y operaciones
+Numerodecluster:5 TemaoTopicoPrincipal:Derecho penal y responsabilidad criminal
+Numerodecluster:6 TemaoTopicoPrincipal:Víctimas y victimarios
+Numerodecluster:7 TemaoTopicoPrincipal:Procesos de reconocimiento y justicia
+Numerodecluster:8 TemaoTopicoPrincipal:Procedimientos y eventos judiciales
+Numerodecluster:9 TemaoTopicoPrincipal:Unidades militares y operaciones
+Numerodecluster:10 TemaoTopicoPrincipal:Operaciones y estructura militar
+Numerodecluster:11 TemaoTopicoPrincipal:Personajes y roles militares
+Numerodecluster:12 TemaoTopicoPrincipal:Individuos específicos relacionados con el caso
+Numerodecluster:13 TemaoTopicoPrincipal:Jurisdicción y procesos de paz
+Numerodecluster:14 TemaoTopicoPrincipal:Actores armados y violencia
+Numerodecluster:15 TemaoTopicoPrincipal:Personajes y roles militares
+Numerodecluster:16 TemaoTopicoPrincipal:Justicia militar y procesos legales
+Numerodecluster:17 TemaoTopicoPrincipal:Personajes y roles militares
+Numerodecluster:18 TemaoTopicoPrincipal:Información e inteligencia militar
+Numerodecluster:19 TemaoTopicoPrincipal:Identidad y pertenencia a grupos
+Numerodecluster:20 TemaoTopicoPrincipal:Procedimientos y acción legal
+Numerodecluster:21 TemaoTopicoPrincipal:Procedimientos de audiencia
+Numerodecluster:22 TemaoTopicoPrincipal:Individuos específicos relacionados con el caso

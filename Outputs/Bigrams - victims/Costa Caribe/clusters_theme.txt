@@ -1,0 +1,22 @@
+1: Tema o Tópico Principal: Comunidades indígenas y étnicas y sus interacciones con las autoridades
+2: Tema o Tópico Principal: Testimonios de víctimas y representantes de organizaciones
+3: Tema o Tópico Principal: Redes sociales y relaciones personales en el contexto del conflicto
+4: Tema o Tópico Principal: Enfrentamientos armados y muertes en combate
+5: Tema o Tópico Principal: Estructura y dinámicas de grupos armados
+6: Tema o Tópico Principal: Impacto colectivo y familiar de la violencia
+7: Tema o Tópico Principal: Procedimientos judiciales y presentaciones de informes
+8: Tema o Tópico Principal: Involucramiento y afectación de las familias y personas en el conflicto
+9: Tema o Tópico Principal: Impacto del conflicto en mujeres y menores
+10: Tema o Tópico Principal: Asesinatos y acusaciones de guerrilleros
+11: Tema o Tópico Principal: Impacto del conflicto en la estructura familiar y social
+12: Tema o Tópico Principal: Defensa y promoción de derechos humanos
+13: Tema o Tópico Principal: Pérdidas personales y familiares por muertes en el conflicto
+14: Tema o Tópico Principal: Discursos y llamados a la atención sobre el conflicto
+15: Tema o Tópico Principal: Cronología y relevancia de casos específicos
+16: Tema o Tópico Principal: Justicia y reparación en el ámbito nacional e internacional
+17: Tema o Tópico Principal: Proceso de reconocimiento y responsabilidad en el conflicto
+18: Tema o Tópico Principal: Experiencias personales de víctimas y la afectación en la vida cotidiana
+19: Tema o Tópico Principal: Impacto del conflicto en comunidades y sus miembros
+20: Tema o Tópico Principal: Impacto cultural y en el territorio por el conflicto
+21: Tema o Tópico Principal: Búsqueda de paz y reconciliación
+22: Tema o Tópico Principal: Conexión con la tierra y recursos naturales en el marco del conflicto

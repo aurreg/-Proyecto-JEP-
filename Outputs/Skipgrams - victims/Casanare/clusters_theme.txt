@@ -1,0 +1,16 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Estructura militar
+Numerodecluster:2 TemaoTopicoPrincipal:Involucramiento de civiles
+Numerodecluster:3 TemaoTopicoPrincipal:Conocimiento y legalidad en el conflicto
+Numerodecluster:4 TemaoTopicoPrincipal:Operaciones y estructuras de unidades militares
+Numerodecluster:5 TemaoTopicoPrincipal:Víctimas y proceso de paz
+Numerodecluster:6 TemaoTopicoPrincipal:Información y responsabilidad en el conflicto
+Numerodecluster:7 TemaoTopicoPrincipal:Educación y servicios militares
+Numerodecluster:8 TemaoTopicoPrincipal:Marco legal y público
+Numerodecluster:9 TemaoTopicoPrincipal:Renuncia y garantías legales
+Numerodecluster:10 TemaoTopicoPrincipal:Personas implicadas en el caso
+Numerodecluster:11 TemaoTopicoPrincipal:Proceso judicial y confesiones
+Numerodecluster:12 TemaoTopicoPrincipal:Naturaleza de las bajas en combate
+Numerodecluster:13 TemaoTopicoPrincipal:Mando y estructura operativa militar
+Numerodecluster:14 TemaoTopicoPrincipal:Proceso de testimonios y versiones
+Numerodecluster:15 TemaoTopicoPrincipal:Planeación operacional
+Numerodecluster:16 TemaoTopicoPrincipal:Sistema de justicia y derechos humanos

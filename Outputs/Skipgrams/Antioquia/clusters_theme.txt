@@ -1,0 +1,22 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Impacto en la vida familiar y comunitaria por acciones del ejército
+Numerodecluster:2 TemaoTopicoPrincipal:Víctimas y patrones de violencia en el contexto del conflicto
+Numerodecluster:3 TemaoTopicoPrincipal:Identidades de las personas involucradas o afectadas
+Numerodecluster:4 TemaoTopicoPrincipal:Derechos humanos y marcos jurídicos internacionales
+Numerodecluster:5 TemaoTopicoPrincipal:Aspiraciones de justicia social y restablecimiento de la comunidad
+Numerodecluster:6 TemaoTopicoPrincipal:Sistema de justicia transicional
+Numerodecluster:7 TemaoTopicoPrincipal:Exhumaciones y procesos forenses en contextos militares
+Numerodecluster:8 TemaoTopicoPrincipal:Mecanismos de investigación y recolección de testimonios
+Numerodecluster:9 TemaoTopicoPrincipal:Detalles procesales o técnicos menores
+Numerodecluster:10 TemaoTopicoPrincipal:Profundidad y detalle en la investigación o presentación de información
+Numerodecluster:11 TemaoTopicoPrincipal:Elementos simbólicos o menciones específicas
+Numerodecluster:12 TemaoTopicoPrincipal:Conflicto armado interno y violencia asociada
+Numerodecluster:13 TemaoTopicoPrincipal:Funcionarios y representantes legales involucrados en el caso
+Numerodecluster:14 TemaoTopicoPrincipal:Actores militares y estructura del ejército involucrados en crímenes
+Numerodecluster:15 TemaoTopicoPrincipal:Grupos armados y dinámicas de confrontación
+Numerodecluster:16 TemaoTopicoPrincipal:Experiencias directas de violencia por parte de soldados
+Numerodecluster:17 TemaoTopicoPrincipal:Procesos judiciales y testimonios en audiencias públicas
+Numerodecluster:18 TemaoTopicoPrincipal:Educación y vida cotidiana en el contexto del conflicto
+Numerodecluster:19 TemaoTopicoPrincipal:Víctimas y procesos de justicia en la Jurisdicción Especial para la Paz
+Numerodecluster:20 TemaoTopicoPrincipal:Casos específicos y contextos regionales de ejecuciones extrajudiciales
+Numerodecluster:21 TemaoTopicoPrincipal:Emociones y apoyo en el proceso de justicia restaurativa
+Numerodecluster:22 TemaoTopicoPrincipal:Impacto del conflicto en las localidades y crímenes contra la humanidad

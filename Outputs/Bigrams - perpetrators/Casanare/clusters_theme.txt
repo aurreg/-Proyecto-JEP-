@@ -1,0 +1,24 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Estructura militar y cumplimiento de órdenes
+Numerodecluster:2 TemaoTopicoPrincipal:Manejo de recursos y presiones en operaciones
+Numerodecluster:3 TemaoTopicoPrincipal:Organización y jerarquía militar
+Numerodecluster:4 TemaoTopicoPrincipal:Testimonios y recuerdos de operaciones
+Numerodecluster:5 TemaoTopicoPrincipal:Figuras y nombres propios asociados al caso
+Numerodecluster:6 TemaoTopicoPrincipal:Vida personal y entorno familiar de los militares
+Numerodecluster:7 TemaoTopicoPrincipal:Operaciones militares y enfrentamientos
+Numerodecluster:8 TemaoTopicoPrincipal:Estrategias y tácticas de combate
+Numerodecluster:9 TemaoTopicoPrincipal:Geografía y localidades relacionadas con el caso
+Numerodecluster:10 TemaoTopicoPrincipal:Procedimientos legales y procesos de la JEP
+Numerodecluster:11 TemaoTopicoPrincipal:Procedimientos y participantes en audiencias
+Numerodecluster:12 TemaoTopicoPrincipal:Proceso judicial y marco legal de la JEP
+Numerodecluster:13 TemaoTopicoPrincipal:Relaciones personales y responsabilidades individuales
+Numerodecluster:14 TemaoTopicoPrincipal:Derechos humanos y aspectos internacionales
+Numerodecluster:15 TemaoTopicoPrincipal:Logística militar y adquisición de armamento
+Numerodecluster:16 TemaoTopicoPrincipal:Rangos militares y personas involucradas
+Numerodecluster:17 TemaoTopicoPrincipal:Capacitación militar y reconocimiento de errores
+Numerodecluster:18 TemaoTopicoPrincipal:Personas y nombres propios asociados al caso
+Numerodecluster:19 TemaoTopicoPrincipal:Pagos y comisiones por información e involucramiento de civiles
+Numerodecluster:20 TemaoTopicoPrincipal:Aspectos procesales y búsqueda de la verdad
+Numerodecluster:21 TemaoTopicoPrincipal:Identificación y armamento utilizado
+Numerodecluster:22 TemaoTopicoPrincipal:Condiciones y beneficios en el marco legal
+Numerodecluster:23 TemaoTopicoPrincipal:Procedimientos judiciales y manejo de cadáveres
+Numerodecluster:24 TemaoTopicoPrincipal:Respeto y consideración hacia las víctimas

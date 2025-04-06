@@ -1,0 +1,25 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Procedimientos y aspectos legales de la JEP en Barranquilla
+Numerodecluster:2 TemaoTopicoPrincipal:Personalidades y figuras asociadas al caso
+Numerodecluster:3 TemaoTopicoPrincipal:Aspectos procesales y de investigación en la JEP
+Numerodecluster:4 TemaoTopicoPrincipal:Nombres propios relacionados con el caso
+Numerodecluster:5 TemaoTopicoPrincipal:Comunicación y testimonios en municipios específicos
+Numerodecluster:6 TemaoTopicoPrincipal:Víctimas y dinámicas de los falsos positivos
+Numerodecluster:7 TemaoTopicoPrincipal:Actores armados y estructura militar
+Numerodecluster:8 TemaoTopicoPrincipal:Crímenes de guerra y lesa humanidad
+Numerodecluster:9 TemaoTopicoPrincipal:Militares y estructura de mando
+Numerodecluster:10 TemaoTopicoPrincipal:Impacto en las familias y discursos de perdón
+Numerodecluster:11 TemaoTopicoPrincipal:Proceso y justicia transicional
+Numerodecluster:12 TemaoTopicoPrincipal:Víctimas y fechas de eventos relacionados
+Numerodecluster:13 TemaoTopicoPrincipal:Patrones de criminalidad y prácticas del conflicto
+Numerodecluster:14 TemaoTopicoPrincipal:Reconocimiento de responsabilidad y procesos en la JEP
+Numerodecluster:15 TemaoTopicoPrincipal:Impacto en comunidades indígenas y afrodescendientes
+Numerodecluster:16 TemaoTopicoPrincipal:Contexto regional del Caribe colombiano
+Numerodecluster:17 TemaoTopicoPrincipal:Derechos humanos y sufrimiento causado
+Numerodecluster:18 TemaoTopicoPrincipal:Derecho a la vida y seguridad personal
+Numerodecluster:19 TemaoTopicoPrincipal:Actos de violencia y estrategias militares
+Numerodecluster:20 TemaoTopicoPrincipal:Proceso judicial y participación de víctimas
+Numerodecluster:21 TemaoTopicoPrincipal:Conflicto armado y estructuras ilegales
+Numerodecluster:22 TemaoTopicoPrincipal:Militares y rangos dentro de la estructura armada
+Numerodecluster:23 TemaoTopicoPrincipal:Impacto en comunidades y responsabilidad colectiva
+Numerodecluster:24 TemaoTopicoPrincipal:Derechos de la mujer y marcos legales internacionales
+Numerodecluster:25 TemaoTopicoPrincipal:Compromiso y continuación de la lucha por la justicia

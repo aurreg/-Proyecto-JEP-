@@ -1,0 +1,21 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Personas involucradas en el caso
+Numerodecluster:2 TemaoTopicoPrincipal:Aspectos administrativos y logísticos
+Numerodecluster:3 TemaoTopicoPrincipal:Participación y testimonio en el proceso judicial
+Numerodecluster:4 TemaoTopicoPrincipal:Metodologías y enfoques de reconciliación
+Numerodecluster:5 TemaoTopicoPrincipal:Estrategias y políticas de seguridad y defensa
+Numerodecluster:6 TemaoTopicoPrincipal:Violaciones a los derechos humanos y crímenes de guerra
+Numerodecluster:7 TemaoTopicoPrincipal:Estructura y operaciones militares
+Numerodecluster:8 TemaoTopicoPrincipal:Compromisos y deberes en el proceso de paz
+Numerodecluster:9 TemaoTopicoPrincipal:Identificación de víctimas
+Numerodecluster:10 TemaoTopicoPrincipal:Responsabilidad en homicidios y prácticas ilegales
+Numerodecluster:11 TemaoTopicoPrincipal:Testimonios y versiones de los sucesos
+Numerodecluster:12 TemaoTopicoPrincipal:Geografía y lugares de incidencia del conflicto
+Numerodecluster:13 TemaoTopicoPrincipal:Profesionales y técnicos relacionados con el caso
+Numerodecluster:14 TemaoTopicoPrincipal:Procedimientos judiciales y actos de reconocimiento
+Numerodecluster:15 TemaoTopicoPrincipal:Marco legal y políticas de derechos humanos
+Numerodecluster:16 TemaoTopicoPrincipal:Proceso legal y compromisos de la JEP
+Numerodecluster:17 TemaoTopicoPrincipal:Identidad étnica y participación en el conflicto
+Numerodecluster:18 TemaoTopicoPrincipal:Procedimientos judiciales y administrativos
+Numerodecluster:19 TemaoTopicoPrincipal:Medidas judiciales y beneficios procesales
+Numerodecluster:20 TemaoTopicoPrincipal:Participación y representación legal en el proceso
+Numerodecluster:21 TemaoTopicoPrincipal:Información y testimonios sobre operaciones y combates

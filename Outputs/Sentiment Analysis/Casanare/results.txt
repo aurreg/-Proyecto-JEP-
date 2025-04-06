@@ -1,0 +1,20 @@
+summary score results:
+"Estadística"	"Valor"
+"Mean Positive Score"	1.386
+"Mean Negative Score"	1.946
+"Median Positive Score"	1.393
+"Median Negative Score"	1.935
+"Shapiro-Wilk Difference P-value"	0.945
+"Mann-Whitney P-value"	0
+"t-test P-value"	0
+
+--------------------------
+summary proportions results:
+"Estadística"	"Valor"
+"Mean Positive Proportion"	0.538
+"Mean Negative Proportion"	0.462
+"Median Positive Proportion"	0.536
+"Median Negative Proportion"	0.464
+"Shapiro-Wilk Difference P-value"	0.155
+"Mann-Whitney P-value"	1
+"t-test P-value"	1

@@ -1,0 +1,25 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Historia y contexto de las ejecuciones extrajudiciales en Colombia
+Numerodecluster:2 TemaoTopicoPrincipal:Patrones y estructura de prácticas criminales
+Numerodecluster:3 TemaoTopicoPrincipal:Impacto social y legal de las ejecuciones extrajudiciales
+Numerodecluster:4 TemaoTopicoPrincipal:Geografía del conflicto y actores regionales
+Numerodecluster:5 TemaoTopicoPrincipal:Impacto personal y familiar de las víctimas
+Numerodecluster:6 TemaoTopicoPrincipal:Comunidades indígenas y su relación con el conflicto
+Numerodecluster:7 TemaoTopicoPrincipal:Agentes del Estado involucrados en ejecuciones extrajudiciales
+Numerodecluster:8 TemaoTopicoPrincipal:Vulnerabilidad y condiciones de las víctimas
+Numerodecluster:9 TemaoTopicoPrincipal:Procedimientos y medidas judiciales
+Numerodecluster:10 TemaoTopicoPrincipal:Metodología y fases de investigación judicial
+Numerodecluster:11 TemaoTopicoPrincipal:Reacciones emocionales y personales ante las ejecuciones
+Numerodecluster:12 TemaoTopicoPrincipal:Proceso judicial y reconocimiento de las víctimas
+Numerodecluster:13 TemaoTopicoPrincipal:Consecuencias personales y trauma de las ejecuciones
+Numerodecluster:14 TemaoTopicoPrincipal:Involucramiento del Ejército y estructuras militares
+Numerodecluster:15 TemaoTopicoPrincipal:Operaciones militares y alias de actores armados en municipios específicos
+Numerodecluster:16 TemaoTopicoPrincipal:Reparación y conocimiento del daño a las víctimas
+Numerodecluster:17 TemaoTopicoPrincipal:Condiciones y efectos de la violencia en las comunidades
+Numerodecluster:18 TemaoTopicoPrincipal:Responsabilidad y admisión de actos criminales
+Numerodecluster:19 TemaoTopicoPrincipal:Territorios ancestrales y espacios críticos del conflicto
+Numerodecluster:20 TemaoTopicoPrincipal:Impacto y necesidades de las familias afectadas
+Numerodecluster:21 TemaoTopicoPrincipal:Reconocimiento de responsabilidades y falsos positivos
+Numerodecluster:22 TemaoTopicoPrincipal:Operativos y señalamientos falsos
+Numerodecluster:23 TemaoTopicoPrincipal:Operaciones militares y falsos combates
+Numerodecluster:24 TemaoTopicoPrincipal:Marco legal y procesos de paz y justicia
+Numerodecluster:25 TemaoTopicoPrincipal:Presentación de muertes y asesinatos en combate

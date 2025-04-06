@@ -1,0 +1,22 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Proceso judicial y participación en audiencias
+Numerodecluster:2 TemaoTopicoPrincipal:Personajes o figuras públicas mencionados
+Numerodecluster:3 TemaoTopicoPrincipal:Víctimas y perpetradores en el contexto del conflicto armado
+Numerodecluster:4 TemaoTopicoPrincipal:Impacto social y daños causados por el conflicto
+Numerodecluster:5 TemaoTopicoPrincipal:Entidades militares y respuesta institucional
+Numerodecluster:6 TemaoTopicoPrincipal:Estructura militar y actores de alto rango
+Numerodecluster:7 TemaoTopicoPrincipal:Familias y víctimas en la búsqueda de justicia
+Numerodecluster:8 TemaoTopicoPrincipal:Justicia transicional y reparación a las víctimas
+Numerodecluster:9 TemaoTopicoPrincipal:Procedimientos y conductas judiciales
+Numerodecluster:10 TemaoTopicoPrincipal:Derechos humanos y justicia en casos específicos
+Numerodecluster:11 TemaoTopicoPrincipal:Personajes o figuras públicas mencionados
+Numerodecluster:12 TemaoTopicoPrincipal:Desarrollo y procedimientos en audiencias judiciales
+Numerodecluster:13 TemaoTopicoPrincipal:Impacto del conflicto en la sociedad civil
+Numerodecluster:14 TemaoTopicoPrincipal:El sufrimiento y la lucha de las familias afectadas
+Numerodecluster:15 TemaoTopicoPrincipal:Apoyo y reconocimiento a la labor de la justicia
+Numerodecluster:16 TemaoTopicoPrincipal:Desaparición forzada y búsqueda de personas
+Numerodecluster:17 TemaoTopicoPrincipal:Responsabilidad y justicia penal
+Numerodecluster:18 TemaoTopicoPrincipal:Reconocimiento y homenaje a las víctimas
+Numerodecluster:19 TemaoTopicoPrincipal:Resiliencia y búsqueda de verdad por parte de las víctimas
+Numerodecluster:20 TemaoTopicoPrincipal:Crímenes contra la humanidad y responsabilidad judicial
+Numerodecluster:21 TemaoTopicoPrincipal:Procedimientos legales y cumplimiento de la justicia
+Numerodecluster:22 TemaoTopicoPrincipal:Víctimas y relatos personales en el marco del conflicto armado

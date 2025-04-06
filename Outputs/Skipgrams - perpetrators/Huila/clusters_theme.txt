@@ -1,0 +1,20 @@
+1:TemaoTopicoPrincipal:Actores y apodos en el conflicto
+2:TemaoTopicoPrincipal:Inteligencia militar y operaciones
+3:TemaoTopicoPrincipal:Personas posiblemente involucradas
+4:TemaoTopicoPrincipal:Comando y operaciones militares
+5:TemaoTopicoPrincipal:Armamento
+6:TemaoTopicoPrincipal:Víctimas y victimarios
+7:TemaoTopicoPrincipal:Política y estrategia de defensa
+8:TemaoTopicoPrincipal:Inspecciones y hallazgos forenses
+9:TemaoTopicoPrincipal:Información y testimonios
+10:TemaoTopicoPrincipal:Personas posiblemente involucradas
+11:TemaoTopicoPrincipal:Testimonios y recuerdos personales
+12:TemaoTopicoPrincipal:Procedimientos y protocolos judiciales
+13:TemaoTopicoPrincipal:Carrera militar y procesos formativos
+14:TemaoTopicoPrincipal:Municiones y armamento
+15:TemaoTopicoPrincipal:Operaciones y geografía militar
+16:TemaoTopicoPrincipal:Estructura y estrategias del ejército
+17:TemaoTopicoPrincipal:Normatividad y procesos de revisión
+18:TemaoTopicoPrincipal:Personas posiblemente involucradas
+19:TemaoTopicoPrincipal:Responsabilidad y participación en los hechos
+20:TemaoTopicoPrincipal:Marco legal y procedimental de la JEP

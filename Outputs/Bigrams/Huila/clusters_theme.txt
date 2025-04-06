@@ -1,0 +1,25 @@
+1:Operaciones y mando militar
+2:Inteligencia y manejo de información
+3:Alias de personas relacionadas con el caso
+4:Estructura y jerarquía militar
+5:Cronología y procedimientos legales
+6:Resultados operacionales y bajas en combate
+7:Geografía y operaciones en terreno
+8:Proceso judicial y contribución a la verdad
+9:Logística y recursos militares
+10:Profundización de la investigación
+11:Movimiento de tropas y datos tácticos
+12:Opiniones y suposiciones sobre acciones
+13:Acuerdos y construcción de paz
+14:Civiles y jurisdicción
+15:Comunicación y atención en el ámbito urbano
+16:Comando y estructura de las operaciones militares
+17:Objetivos estratégicos y operativos
+18:Presencia de grupos armados y estructura delictiva
+19:Nombres propios y personalidades relacionadas
+20:Características y análisis detallado
+21:Disposición a participar y dudas
+22:Testimonios y reconocimiento de personas
+23:Procedimientos y responsabilidades legales
+24:Comunicación y traslado en batallón
+25:Documentación y registros escritos

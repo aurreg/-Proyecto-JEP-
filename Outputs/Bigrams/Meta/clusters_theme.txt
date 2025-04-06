@@ -1,0 +1,25 @@
+1: Tema o Tópico Principal: Víctimas del conflicto armado y desapariciones forzadas
+2: Tema o Tópico Principal: Asesinato y desaparición de jóvenes y niños
+3: Tema o Tópico Principal: Representación y defensa de las víctimas
+4: Tema o Tópico Principal: Procesos legales y medidas de protección
+5: Tema o Tópico Principal: Participación y voz de las víctimas en el proceso
+6: Tema o Tópico Principal: Justicia, reparación y paz
+7: Tema o Tópico Principal: Llamado a la acción y compromiso con la verdad
+8: Tema o Tópico Principal: Identificación y memoria de las víctimas
+9: Tema o Tópico Principal: Impacto de la violencia en las familias
+10: Tema o Tópico Principal: Derechos humanos y obligaciones del Estado
+11: Tema o Tópico Principal: Participación y representación en el proceso judicial
+12: Tema o Tópico Principal: Víctimas de ejecuciones extrajudiciales por el ejército
+13: Tema o Tópico Principal: Proceso judicial y mecanismos de justicia transicional
+14: Tema o Tópico Principal: Contexto de violencia y operaciones militares
+15: Tema o Tópico Principal: Daño y sufrimiento causado por la violencia
+16: Tema o Tópico Principal: Representación legal y responsabilidad de actores
+17: Tema o Tópico Principal: Audiencias y participación en el proceso judicial
+18: Tema o Tópico Principal: Impacto en mujeres, familias y comunidades
+19: Tema o Tópico Principal: Búsqueda de personas desaparecidas y ejecutadas
+20: Tema o Tópico Principal: Responsabilidad de grupos armados y fuerzas de seguridad
+21: Tema o Tópico Principal: Esperanza y búsqueda de verdad por parte de los familiares
+22: Tema o Tópico Principal: Investigación y análisis de casos individuales
+23: Tema o Tópico Principal: Selección y análisis de casos relacionados con el conflicto
+24: Tema o Tópico Principal: Pérdida familiar y búsqueda de justicia
+25: Tema o Tópico Principal: Desafíos en la búsqueda de información y verdad

@@ -1,0 +1,47 @@
+Numerodecluster:1 TemaoTopicoPrincipal:Impacto social y cultural de las ejecuciones extrajudiciales en comunidades
+
+Numerodecluster:2 TemaoTopicoPrincipal:Impacto personal y familiar de las ejecuciones extrajudiciales
+
+Numerodecluster:3 TemaoTopicoPrincipal:Procedimientos y participación en audiencias de la JEP
+
+Numerodecluster:4 TemaoTopicoPrincipal:Impactos de la violencia en las comunidades rurales
+
+Numerodecluster:5 TemaoTopicoPrincipal:Proceso jurídico y reconocimiento de víctimas en la JEP
+
+Numerodecluster:6 TemaoTopicoPrincipal:Marginalidad y reconstrucción social
+
+Numerodecluster:7 TemaoTopicoPrincipal:Derechos humanos y marco legal internacional
+
+Numerodecluster:8 TemaoTopicoPrincipal:Consecuencias psicosociales y búsqueda de justicia
+
+Numerodecluster:9 TemaoTopicoPrincipal:Identificación de responsables y acusaciones específicas
+
+Numerodecluster:10 TemaoTopicoPrincipal:Crímenes de lesa humanidad y responsabilidad penal
+
+Numerodecluster:11 TemaoTopicoPrincipal:Conceptos de macrocriminalidad y crimen organizado
+
+Numerodecluster:12 TemaoTopicoPrincipal:Identidad de las víctimas y contexto social
+
+Numerodecluster:13 TemaoTopicoPrincipal:Impacto emocional y llamados al reconocimiento
+
+Numerodecluster:14 TemaoTopicoPrincipal:Derecho internacional y justicia transicional
+
+Numerodecluster:15 TemaoTopicoPrincipal:Actuación de agentes estatales y estructura militar
+
+Numerodecluster:16 TemaoTopicoPrincipal:Participación de distintos actores en el conflicto armado
+
+Numerodecluster:17 TemaoTopicoPrincipal:Prácticas de exterminio y efectos en la confianza social
+
+Numerodecluster:18 TemaoTopicoPrincipal:Impacto en comunidades indígenas y protección territorial
+
+Numerodecluster:19 TemaoTopicoPrincipal:Impacto social en municipios y generaciones afectadas
+
+Numerodecluster:20 TemaoTopicoPrincipal:Contexto de ejecuciones extrajudiciales y marco legal
+
+Numerodecluster:21 TemaoTopicoPrincipal:Procedimientos jurídicos y actos de solidaridad
+
+Numerodecluster:22 TemaoTopicoPrincipal:Cambios en la estructura y promesas de apoyo
+
+Numerodecluster:23 TemaoTopicoPrincipal:Desapariciones forzadas y búsqueda de justicia
+
+Numerodecluster:24 TemaoTopicoPrincipal:Activismo comunitario y liderazgo social
